@@ -43,5 +43,5 @@ module.exports = {
 	eachMatch: eachMatch,
 	extractSelectors: extractSelectors
 
-}
+};
 
