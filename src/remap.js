@@ -1,3 +1,6 @@
+/* global require, module*/
+'use strict';
+
 var fs  = require('fs');
 var src = './files/';
 
