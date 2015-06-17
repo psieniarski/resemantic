@@ -24,18 +24,25 @@ describe('eachMatch', function() {
 });
 
 describe('extractSelectors', function() {
+	var result; 
+
+	beforeEach(function() {
+		result = remap.extractSelectors(testString, testPattern);
+	});
+
+	afterEach(function() {
+		result = undefined;
+	})
+	
 	it('return object', function() {
-		var result = remap.extractSelectors(testString, testPattern);
 		assert.isObject(result); 
 	});
 
 	it('return object contain classes.foo property', function() {
-		var result = remap.extractSelectors(testString, testPattern);
 		assert.deepProperty(result, 'classes.foo'); 
 	});
 
 	it('return object contain ids.unique property', function() {
-		var result = remap.extractSelectors(testString, testPattern);
 		assert.deepProperty(result, 'ids.unique'); 
 	});
 });
