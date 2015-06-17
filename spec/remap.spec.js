@@ -18,7 +18,7 @@ describe('eachMatch', function() {
 	it('callback should be involved for each match', function() {
 		var callback = sinon.spy();
 
-		remap.eachMatch('example string example', /example/gm, callback); // should be called twice 
+		remap.eachMatch(testString, testPattern, callback); // should be called twice 
 		assert.isTrue(callback.calledTwice);
 	});
 });
