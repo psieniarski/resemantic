@@ -23,3 +23,10 @@ describe('eachMatch', function() {
 	});
 });
 
+describe('extractSelectors', function() {
+	it('return object', function() {
+		var result = remap.extractSelectors();
+		assert.isObject(result); 
+	});
+});
+
