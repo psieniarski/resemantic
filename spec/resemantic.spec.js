@@ -9,7 +9,7 @@ var assert = require('chai').assert;
 var sinon  = require('sinon');
 
 // src code
-var resemantic = require('../src/resemantic.js');
+var extractor = require('../src/lib/extractor.js');
 
 // helpers
 var testString  = '<div class="foo bar"></div><div id="unique"></div>';
@@ -20,7 +20,7 @@ describe('eachMatch', function() {
 	it('callback should be involved for each match', function() {
 		var callback = sinon.spy();
 
-		resemantic.eachMatch(testString, testPattern, callback); // should be called twice 
+		extractor.eachMatch(testString, testPattern, callback); // should be called twice 
 		assert.isTrue(callback.calledTwice);
 	});
 });
@@ -29,7 +29,7 @@ describe('extractSelectors', function() {
 	var result; 
 
 	beforeEach(function() {
-		result = resemantic.extractSelectors(testString, testPattern);
+		result = extractor.extractSelectors(testString, testPattern);
 	});
 
 	afterEach(function() {
@@ -49,20 +49,4 @@ describe('extractSelectors', function() {
 	});
 });
 
-describe('createConfigFile', function() {
-	var file = path.resolve('test.txt'); 
 
-	after(function() {
-		fs.unlinkSync(file);
-	});
-
-	it('should create file', function() {
-		var obj = { foo: 5, bar: 'str' };
-
-		resemantic.createConfigFile(file, obj);
-
-		fs.exists(file, function (exists) {
-  			assert.isTrue(exists);
-		});
-	});
-});
