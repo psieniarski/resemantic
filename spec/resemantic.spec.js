@@ -3,8 +3,10 @@
 'use strict';
 
 // libs 
+var path   = require('path'); 
+var fs     = require('fs');
 var assert = require('chai').assert;
-var sinon = require('sinon');
+var sinon  = require('sinon');
 
 // src code
 var resemantic = require('../src/resemantic.js');
@@ -34,16 +36,33 @@ describe('extractSelectors', function() {
 		result = undefined;
 	})
 	
-	it('return object', function() {
+	it('should return object', function() {
 		assert.isObject(result); 
 	});
 
-	it('return object contain class.foo property', function() {
+	it('should return object contain class.foo property', function() {
 		assert.deepProperty(result, 'class.foo'); 
 	});
 
-	it('return object contain id.unique property', function() {
+	it('should return object contain id.unique property', function() {
 		assert.deepProperty(result, 'id.unique'); 
 	});
 });
 
+describe('createConfigFile', function() {
+	var file = path.resolve('test.txt'); 
+
+	after(function() {
+		fs.unlinkSync(file);
+	});
+
+	it('should create file', function() {
+		var obj = { foo: 5, bar: 'str' };
+
+		resemantic.createConfigFile(file, obj);
+
+		fs.exists(file, function (exists) {
+  			assert.isTrue(exists);
+		});
+	});
+});
