@@ -1,21 +1,12 @@
 {
-  "name": "remap",
+  "name": "resemantic",
   "version": "0.1.0",
-  "description": "remap",
+  "description": "refactoring HTML, CSS, JS",
   "main": "index.js",
   "author": "Pawel Sieniarski <paabson@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.0.0",
-    "grunt": "^0.4.5",
-    "grunt-browserify": "^3.8.0",
-    "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-copy": "^0.8.0",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-notify": "^0.4.1",
     "sinon": "^1.15.3"
-  },
-  "dependencies": {
-    "jquery": "^2.1.4"
   }
 }

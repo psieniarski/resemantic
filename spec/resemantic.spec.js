@@ -7,7 +7,7 @@ var assert = require('chai').assert;
 var sinon = require('sinon');
 
 // src code
-var remap = require('../src/remap.js');
+var resemantic = require('../src/resemantic.js');
 
 // helpers
 var testString  = '<div class="foo bar"></div><div id="unique"></div>';
@@ -18,7 +18,7 @@ describe('eachMatch', function() {
 	it('callback should be involved for each match', function() {
 		var callback = sinon.spy();
 
-		remap.eachMatch(testString, testPattern, callback); // should be called twice 
+		resemantic.eachMatch(testString, testPattern, callback); // should be called twice 
 		assert.isTrue(callback.calledTwice);
 	});
 });
@@ -27,7 +27,7 @@ describe('extractSelectors', function() {
 	var result; 
 
 	beforeEach(function() {
-		result = remap.extractSelectors(testString, testPattern);
+		result = resemantic.extractSelectors(testString, testPattern);
 	});
 
 	afterEach(function() {
@@ -38,12 +38,12 @@ describe('extractSelectors', function() {
 		assert.isObject(result); 
 	});
 
-	it('return object contain classes.foo property', function() {
-		assert.deepProperty(result, 'classes.foo'); 
+	it('return object contain class.foo property', function() {
+		assert.deepProperty(result, 'class.foo'); 
 	});
 
-	it('return object contain ids.unique property', function() {
-		assert.deepProperty(result, 'ids.unique'); 
+	it('return object contain id.unique property', function() {
+		assert.deepProperty(result, 'id.unique'); 
 	});
 });
 

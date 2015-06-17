@@ -18,22 +18,15 @@ function eachMatch(str, pattern, callback) {
 }
 
 function extractSelectors(str, pattern) {
-	var result = { ids: {}, classes: {} };
+	var result = { id: {}, class: {} };
 
 	eachMatch(str, pattern, function(match) {
 		var type = match[1];
-		var selectors = match[2].split(' ');
-		
-		if(type == 'class') {
-			selectors.forEach(function(selector) {
-				result.classes[selector] = '';
-			});
+		var selectors = match[2].split(' ');		
 
-		} else if(type == 'id') {
-			selectors.forEach(function(selector) {
-				result.ids[selector] = '';
-			});
-		}
+		selectors.forEach(function(selector) {
+			result[type][selector] = '';
+		});
 	});
 
 	return result;
