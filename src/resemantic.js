@@ -2,6 +2,8 @@
 'use strict';
 
 var fs  = require('fs');
+var path = require('path');
+
 var src = './files/';
 
 var CONFIG = {
@@ -32,9 +34,14 @@ function extractSelectors(str, pattern) {
 	return result;
 }
 
+function createConfigFile(src, obj) {
+	var jsonData = JSON.stringify(obj);
+	fs.writeFile(path.resolve(src), jsonData);
+}
+ 
 module.exports = {
 	eachMatch: eachMatch,
-	extractSelectors: extractSelectors
-
+	extractSelectors: extractSelectors,
+	createConfigFile: createConfigFile
 };
 
