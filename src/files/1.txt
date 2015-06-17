@@ -1,0 +1,6542 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl">
+<head>
+	
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+			
+		
+	
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<meta name="google-site-verification" content="qDqOkm6jadPHvInxXsZZwXtHabRpONzr69YRGQnEvqc" />
+<meta name="google-site-verification" content="b8y9L_hstwkXO7fTtQl9OQEccB58NoO0MPNBFsEi5qY" />
+
+<meta name="msvalidate.01" content="4C1F1417DA3AF1111A56B8026E2371CF" />
+
+<meta name="y_key" content="3b94bfb2108e3cd2" />
+<meta property="fb:admins" content="1752090021,1631889991" />
+<link href="https://plus.google.com/114959712876558383482" rel="publisher" />
+
+<!-- MTU Google Sitelinks Search Box start -->
+<script type="application/ld+json">
+ 
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "http://www.euro.com.pl/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://www.euro.com.pl/search.bhtml?from=gssb&keyword={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<!-- MTU Google Sitelinks Search Box stop -->
+
+
+	
+
+
+
+	<meta name="verify-v1" content="FXlbxorGfXJ58bRQd5wr5cq72cK4VVnH0V70hers8Zs=" />
+	
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>RTV EURO AGD - Sklep internetowy RTV AGD Komputery Foto Telefony</title>
+
+	
+	<meta name="description" content="RTV EURO AGD - Lider rynku RTV i AGD w Polsce - 222 sklepy w 134 miejscowościach w całej Polsce i Sklep Internetowy. Jesteśmy  pierwszą ogólnopolską wyspecjalizowaną siecią detaliczną. Oferujemy sprzęt audio-wideo, zmechanizowany sprzęt gospodarstwa domowego, sprzęt telekomunikacyjny, komputerowy, fotograficzny oraz akcesoria."/>
+	<meta name="keywords" content="AGD, RTV, Euro, RTVEUROAGD, RTV EURO, EURO AGD, telewizory, pralki, sprzęt, kamera wideo, aparat cyfrowy, audio-wideo, LCD, euro, eurortv, sklep internetowy, cyfrowa lustrzanka, aparat kompaktowy, telewizor plazmowy, DVD"/>
+	
+
+
+	<link rel="canonical" href="http://www.euro.com.pl"/>
+
+
+
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.euro.com.pl"/>
+
+
+	 
+
+ 
+
+
+
+
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="Author" content="RTV EURO AGD" />
+<meta name="Reply-to" content="sklep.internetowy@euro.com.pl" />
+<meta name="Language" content="pl" />
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+<meta name="msapplication-config" content="none"/>
+
+	
+	
+	
+	 
+		<meta name="robots" content="all,noodp,noarchive" />
+	
+
+
+
+
+<link rel="shortcut icon" href="/images/www/favicon.ico"/>
+<link href="http://f01.esfr.pl/ver-e7af7f5e7514e45775fc4962ffcb82d9/css/style.css" type="text/css" rel="stylesheet" />
+<link href="http://f00.esfr.pl/ver-82aafed8b084e40b0e89dd4a2f6289cb/css/jquery.plugins.css" type="text/css" rel="stylesheet" />
+<link href="http://f01.esfr.pl/ver-6dd245c62b0195b43bfe02686f904f8c/css/print.css" type="text/css" rel="stylesheet" media="print" />
+
+
+	
+	
+		
+	
+
+<script type="text/javascript" src="http://f00.esfr.pl/ver-9a3f087180c053f0d6e80955890f64e1/javascript/euro/jquery-1.8.2.js" ></script>
+<script type="text/javascript">var jQ = jQuery.noConflict();</script>
+
+	
+	<script type="text/javascript" src="http://f01.esfr.pl/ver-589ba3d53d48f7fd39ce93af10897ba7/javascript/euro/jquery.base.js" ></script>
+
+
+<script type="text/javascript" src="http://f00.esfr.pl/ver-d4a1ef62bc86592eafcb4ac818f7dc0b/javascript/euro/jquery.plugins.js" ></script>
+<script type="text/javascript" src="http://f00.esfr.pl/ver-115153111996a5637423d0ed687b40c4/javascript/plugins/rotator.js" ></script>
+<script type="text/javascript" src="http://f00.esfr.pl/ver-048c1ef999ecea03d5c5565886202dcc/javascript/new/script.js" ></script>
+<script src="//f00.esfr.pl/upload_module/files/dc.js" type="text/javascript"></script>
+<script src="//f01.esfr.pl/upload_module/files/ab_v1.1.js?ver=a" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+//wyłączenie eventów
+//function logProductVisit(data){}
+//function logCustomerVisit(data){}
+
+var _fancyAlert = fancyAlert;
+
+fancyAlert = function(txt){
+   if (txt == "Bu0142u0105d moduu0142u dodawania do koszyka, poinformuj administratora") {
+      pageTracker._trackEvent('Komunikat błędu', 'Błąd modułu koszyka', pageType);
+
+//console.log('fancy alert blad koszyka');
+
+}
+   _fancyAlert(txt);
+
+//console.log('fancy alert blad inny');
+
+}
+var kuchrewVal = test.getVar('kuchrew');
+if(typeof kuchrewVal !== "undefined" && kuchrewVal !== null){
+	test.delVar('kuchrew');
+}
+
+var artVal = test.getVar('art');
+if(typeof artVal !== "undefined" && artVal !== null){
+	test.delVar('art');
+}
+//sprzątanie po ratykoszyk
+var ratyKoszykVal = test.getVar('ratykoszyk');
+if(typeof ratyKoszykVal != "undefined" && ratyKoszykVal !== null){
+	test.delVar('ratykoszyk');
+}
+//sprzątanie po ratykoszyk
+showStandardInstalmentOptionMessage();
+
+//sprzątanie po teście ab_nc
+var abNcVal = test.getVar('nc');
+if(typeof abNcVal !== "undefined" && abNcVal != null){
+	test.delVar('nc');
+}
+var rekk1Val = test.getVar('rekk1');
+if(typeof rekk1Val !== "undefined" && rekk1Val !== null){
+	test.delVar('rekk1');
+}
+jQuery(function(){jQuery("#cart #promotedProducts").remove();});
+
+//selekcja po ratach
+function ab_is(){
+	abIs = new _AB_({
+		name:'is',
+		wariant:{
+			'V':{
+				'weight':50,
+				Event:function(e){
+					jQ('#listForm').find('.option-selected.raty').parent().addClass('hide');
+				}
+			},
+			'N':{
+				'weight':50
+			}
+		}
+	});
+}
+
+jQuery(document).ready(function(){
+//zapis ab_trlp_zd
+//cookieEvtLog.save({name:'ab_trlp_zd'});
+	var pizza = test.getVar('pizza');
+	if(typeof pizza !== 'undefined' && pizza !== 'null'){
+		test.delVar('pizza');
+	}
+	showServicesCalculator();
+	jQ(document).on('click','.m256b',function(event){
+		event.preventDefault();
+		var t = jQ(this);
+		var txt = t.text() == 'więcej »' ? '« mniej' : 'więcej »';
+		t.text(txt).parent().find('.m256bNone').toggle();
+	});
+	jQ('.deliveryDayList ul a.m256b').remove();
+	jQ('.deliveryDayList ul .m256bNone.none').removeClass('none');
+
+	if(typeof _AB_ !== "undefined" 
+			&& typeof abBlank2 === "undefined"
+			&& document.location.host.indexOf("katalog.euro.int.corp") == -1
+			&& document.location.pathname != "/cms/sis-microsoft.bhtml"){
+		ab_blank2();
+		
+	}
+	if(typeof _AB_ !== "undefined" && typeof abIs === "undefined" && !wwwCatalog){
+		ab_is();
+	}
+});
+var npg = test.getVar('npg');
+if(typeof npg !== 'undefined' && npg !== null){
+	test.delVar('npg');
+}
+var hostname = window.document.location.hostname;
+	if(hostname.indexOf('katalog.euro.com.pl') >= 0 || hostname.indexOf('kiosk.euro.com.pl') >= 0){
+		oldWarrantyType();
+	}else{
+		newWarrantyType();
+	}
+var c4nv = test.getVar('c4nv');
+if(c4nv !=='undefined' && c4nv !==null){
+	test.delVar('c4nv');
+}
+oldValidationType();
+var t = test.getVar('ls');
+if(typeof t!=='undefined' && t!==null){
+	test.delVar('ls');
+}
+if(jQuery.cookie('cclq') !== null){lowQuality=true;}
+
+// ab_default_tab
+function ab_default_tab(ver){
+	if(ver == "ipad-i-tablety-multimedialne"){
+		default_tab = new _AB_({
+			name: 'default-tab',
+			wariant: {
+				'V11':{
+					'weight':50 
+				},
+				'D11':{
+					'weight':50,
+					Event: function(e){
+						defaultTabTestSwitchTab();
+					}
+				}
+			}
+		});
+	}else if(ver == "telefony-komorkowe"){
+		default_tab = new _AB_({
+			name: 'default-tab',
+			wariant: {
+				'V13':{
+					'weight':50 
+				},
+				'D13':{
+					'weight':50,
+					Event: function(e){
+						switchOpisPodstawowy();
+					}
+				}
+			}
+		});
+	}
+	
+};
+function switchOpisPodstawowy(){
+	var tabOpis = jQuery("#tab-opis"),
+	opis = tabOpis.find('.opis-podstawowy'),
+	opisStandardowy = opis.find('#descript'),
+	opisCnt = opis.length,
+	opisStandardowyCnt = opisStandardowy.length,
+	opisOsCnt = jQuery(opis[0]).find('.setOS').length;
+	if(opisStandardowyCnt == 0 && opisCnt == 2 && opisOsCnt !== 0){
+		jQuery(opis[opisCnt-1]).prependTo(tabOpis);
+	}
+	if(opisStandardowyCnt == 1 && opisCnt == 2){
+		jQuery(jQuery(opis[opisCnt-1]).contents()).insertAfter(opisStandardowy);
+	}
+};
+function defaultTabTestSwitchTab(){
+	var tmpDefaultTab;
+	if(www.pageType !== "undefined" && www.pageType == "product"){
+		tmpDefaultTab = window.countTabClick;
+		window.countTabClick = -1;
+		menuProductClick("opis");
+		window.countTabClick = tmpDefaultTab;
+	}
+};
+jQuery(function(){
+	var nodeId = jQuery('#nodeid').val();
+	if(typeof default_tab == "undefined" && typeof _AB_ !== "undefined"
+		&& www.pageType !== "undefined" && www.pageType == "product" && typeof nodeId !== "undefined" 
+			&& (nodeId == "telefony-komorkowe" || nodeId == "ipad-i-tablety-multimedialne")){
+		ab_default_tab(nodeId);
+		jQuery('#menu-product li a').click(function(){
+			default_tab.Event([jQuery(this).attr('rel'), jQuery('#nodeid').val()]);
+		});
+	}
+});
+//przydział do ab_mth
+var mthVal = test.getVar('mth');
+if(typeof mthVal !== "undefined" && mthVal !== null){
+	test.delVar('mth');	
+}
+//zamknięcie testu ab_mth2
+var mth2 = test.getVar('mth2');
+if(typeof mth2 !== "undefined" && mth2 !== null){
+	test.delVar('mth2');
+}
+oldMustToHaveType();
+
+//sprzątanie po ab_nll
+var nll = test.getVar('nll');
+if(typeof nll!=="undefined" && nll!==null){
+	test.delVar('nll');
+}
+//sprzątanie po ab_ro
+var roVal = test.getVar('ro');
+if(typeof roVal !== "undefined" && roVal !== null){
+	test.delVar('ro');
+}
+var lpaction2Val = test.getVar('lpaction2');
+if(typeof lpaction2Val !== "undefined" && lpaction2Val !== null){
+	test.delVar('lpaction2');
+}
+var touchRevolution = test.getVar('trlp');
+if(typeof touchRevolution !== "undefined" && touchRevolution !== null){
+	test.delVar('trlp');
+}
+var nweVal = test.getVar('nwe');
+if(typeof nweVal !== "undefined" && nweVal !== null){
+	test.delVar('nwe');
+}
+var pdpVal = test.getVar('pdp');
+if(typeof pdpVal !== "undefined" && pdpVal !== null){
+	test.delVar('pdp');
+	if(document.location.host.indexOf("katalog.euro.int.corp") == -1){
+		hidePrivateDataPermission();
+	}
+}
+//sprzatanie po dk
+var dkVal = test.getVar('dk');
+if(typeof dkVal !== "undefined" && dkVal !== null){
+	test.delVar('dk');
+}
+var abDzVal = test.getVar('dz');
+if(typeof abDzVal !== "undefined" && abDzVal !== null){
+	test.delVar('dz');
+}
+//sprzatanie po dz2
+var dz2Val = test.getVar('dz2');
+if(typeof dz2Val !== "undefined" && dz2Val !== null){
+	test.delVar('dz2');
+}
+var earVal = test.getVar('ear');
+if(typeof earVal !== "undefined" && earVal !== null){
+	test.delVar('ear');
+}
+var xMasLayVal = test.getVar('xmaslay');
+if(typeof xMasLayVal !== "undefined" && xMasLayVal !== null){
+	test.delVar('xmaslay');
+}
+var dctVal = test.getVar('dct');
+if(typeof dctVal !== "undefined" && dctVal !== null){
+	test.delVar('dct');
+}
+var rmktVal=test.getVar('rmkt');
+if(typeof rmktVal !== "undefined" && rmktVal !== null){
+	test.delVar('rmkt');
+}
+//sprzatanie po dtb
+var dtbVal = test.getVar('dtb');
+if(typeof dtbVal !== "undefined" && dtbVal !== null){
+	test.delVar('dtb');
+}
+//sprzatanie po col
+var abColVal = test.getVar('col');
+if(typeof abColVal !== "undefined" && abColVal != null){
+	test.delVar('col');
+}
+//sprzątanie po shb
+var shbVal = test.getVar('shb');
+if(typeof shbVal !== "undefined" && shbVal !== null){
+	test.delVar('shb');
+}
+if(typeof newShopHomeButtons!=="undefined")newShopHomeButtons();
+
+//sprzątanie po ool2
+var ool2Ver = test.getVar('ool2');
+if(typeof ool2Ver !== "undefined" && ool2Ver !== null){
+	test.delVar('ool2');
+}
+
+//sprzątanie po ool (teraz mamy ool2)
+var ool1Ver = test.getVar('ool');
+if(typeof ool1Ver !== "undefined" && ool1Ver !== null){
+	test.delVar('ool');
+}
+
+//sprzątanie po d5hh
+var ab5dhhVal = test.getVar('d5hh');
+if(typeof ab5dhhVal !== "undefined" && ab5dhhVal != null){
+	test.delVar('d5hh');
+}
+
+function ab_blank(){
+	abBlank = new _AB_({
+		name: 'blank',
+		wariant:{
+			'V1':{
+				'weight':25
+			},
+			'V2':{
+				'weight':25
+			},
+			'V3':{
+				'weight':25
+			},
+			'V4':{
+				'weight':25
+			}
+		}
+	});
+}
+if(typeof _AB_ !== "undefined" 
+		&& typeof abBlank === "undefined"
+		&& document.location.host.indexOf("katalog.euro.int.corp") == -1){
+	ab_blank();
+}
+function ab_blank2(){
+	abBlank2 = new _AB_({
+		name: 'blank2',
+		wariant:{
+			'V1':{
+				'weight':20
+			},
+			'V2':{
+				'weight':20
+			},
+			'V3':{
+				'weight':20
+			},
+			'V4':{
+				'weight':20
+			},
+			'V5':{
+				'weight':20
+			}
+		}
+	});
+}
+function _abNewUser(testName, wariant){
+	if(typeof testName == "undefined" || typeof wariant == "undefined"){
+		return;
+	}
+	
+	if(testName == "blank2"){
+
+		if(typeof pageTracker !== "undefined") pageTracker._trackEvent('TestAB', 'blank2', wariant, 0, true);
+	}
+}
+//sprzątanie po teście survAB
+var survVal = test.getVar('survABw');
+if(typeof survVal !== "undefined" && survVal !== null){
+	test.delVar('survABw');
+}
+
+//sprzątanie po teście pamilist
+var pamilistVal = test.getVar('pamilist');
+if(typeof pamilistVal !== "undefined" && pamilistVal != null){
+	test.delVar('pamilist');
+}
+//sprzątanie po teście pamiprod
+var pamiprodVal = test.getVar('pamiprod');
+if(typeof pamiprodVal !== "undefined" && pamiprodVal != null){
+	test.delVar('pamiprod');
+}
+//sprzątanie po teście pamirek
+var pamirekVal = test.getVar('pamirek');
+if(typeof pamirekVal !== "undefined" && pamirekVal != null){
+	test.delVar('pamirek');
+}
+//sprzątanie po teście pamisg
+var pamisgVal = test.getVar('pamisg');
+if(typeof pamisgVal !== "undefined" && pamisgVal != null){
+	test.delVar('pamisg');
+}
+//sprzątanie po teście cdp
+var cdpVal = test.getVar('cdp');
+if(typeof cdpVal !== "undefined" && cdpVal !== null){
+	test.delVar('cdp');
+}
+
+//sprzątanie po teście livechat lc3
+var abLcVal = test.getVar('lc3');
+if(typeof abLcVal !== "undefined" && abLcVal !== null){
+	test.delVar('lc3');
+}
+//restart testu
+var lc1Val = test.getVar('lc');
+if(typeof lc1Val !== "undefined" && lc1Val !== null){
+	test.delVar('lc');
+}
+var lc2Val = test.getVar('lc2');
+if(typeof lc2Val !== "undefined" && lc2Val !== null){
+	test.delVar('lc2');
+}
+//sprzątanie po teście tvf
+var abTvfVal = test.getVar('tvf');
+if(typeof abTvfVal !== "undefiend" && abTvfVal !== null){
+	test.delVar('tvf');
+}
+//sprzatanie po tt
+var abTtVal = test.getVar('tt');
+if(typeof abTtVal !== "undefined" && abTtVal !== null){
+	test.delVar('tt');
+}
+//pamifeed
+function ab_pamifeed(){
+	pamifeed = new _AB_({
+		name: 'pamifeed',
+		wariant:{
+			'V1':{
+				'weight':25
+			},
+			'V2':{
+				'weight':25
+			},
+			'N1':{
+				'weight':25
+			},
+			'N2':{
+				'weight':25
+			}
+		}
+	});
+}
+if(typeof _AB_ !== "undefined" 
+	&& typeof pamifeed == "undefined" 
+	&& !wwwCatalog){
+		ab_pamifeed();
+}
+//pamidisp
+function ab_pamidisp(){
+	pamidisp = new _AB_({
+		name: 'pamidisp',
+		wariant:{
+			'V1':{
+				'weight':25
+			},
+			'V2':{
+				'weight':25
+			},
+			'N1':{
+				'weight':25
+			},
+			'N2':{
+				'weight':25
+			}
+		}
+	});
+}
+if(typeof _AB_ !== "undefined" 
+	&& typeof pamidisp == "undefined" 
+	&& !wwwCatalog){
+		ab_pamidisp();
+}
+
+// MTU HotFix PG link przesuniecie
+function mtuPgLinkMove(){
+	var pgLink = jQ('#tab-opis td.value a[onclick="setScroll();"][href="#gwarancje"]');
+	if ((www.pageType == 'product'||www.pageType =='suite') && pgLink.text().length > '0') {
+
+		jQ('#tab-opis td.name:contains("Szczegółowe warunki gwarancji")').parents('tr').after("<tr style='background:#fffad7'><td class='name' align='right'>Polisa Przedłuż Gwarancję&reg;</td><td class='value mtuPgLink'></td></tr>");
+		jQ('td.mtuPgLink').append(pgLink);
+		jQ('td.mtuPgLink br').remove();
+	}
+}
+
+jQ(document).ready(function() {
+	mtuPgLinkMove();
+	// MTU Hotfix PG ACER
+	if (www.pageType=='comparison')	
+	{
+		jQ('#comparison td.value:contains("(okresy gwarancji ACER")').contents().filter(function(){ return this.nodeType == 3; }).replaceWith("24 miesiące dla Konsumenta (<a href='http://www.acer.pl/ac/pl/PL/content/standard-warranty' target='_blank'>okresy gwarancji ACER</a>),<br/>12 miesięcy dla innych podmiotów niż Konsument");
+		jQ('#comparison td.value:contains("(okresy gwarancji PACKARD BELL")').contents().filter(function(){ return this.nodeType == 3; }).replaceWith("24 miesiące dla Konsumenta (<a href='http://www.packardbell.pl/pb/pl/PL/content/standard-warranty' target='_blank'>okresy gwarancji PACKARD BELL</a>),<br/>12 miesięcy dla innych podmiotów niż Konsument");
+	}
+
+	if (www.pageType == 'product'||www.pageType =='suite'||www.pageType =='productsList') {
+		function MTUproductBoxCachngeDeliveryPrice(){
+			var prices = jQ("#content-2c .prices .f25"),
+			pricesLen = prices.length,
+			from = new Date(2015, 4, 17, 23, 59, 0),
+			until = new Date(2015, 5, 21, 23, 59, 0),
+			now = new Date(),
+			html = '<a href="/cms/darmowy-transport.bhtml?link=wlepka" style="font-size:12px; color:red; font-weight:bold;" title="Darmowy Transport Rezerwowanego Towaru do wybranego Sklepu fizycznego">Darmowy transport <span style="font-size:11px;">do sklepu</span></a>';
+			
+			for(var i=0;i<pricesLen;i++){
+				var el = jQ(prices[i]),
+				change = (now<until) && (now>from) && MTUproductBoxCheckLesserPrice(el.text(),99);
+				
+				if(change){
+					el.parent().find('div.delivery, span.delivery').html(html).show().removeClass('delivery');
+				}
+			}
+		}
+		function MTUproductBoxCheckLesserPrice(price,limit){
+			if(price !== null){
+				price = price.replace(/[^0-9\,]+/g,'').replace(',','.')/1;
+				if(price<limit)return true;
+				
+				return false;
+			}
+			return false;
+		}
+		MTUproductBoxCachngeDeliveryPrice();
+	}
+	
+});
+
+</script>
+
+
+
+
+
+<!--[if lte IE 6]>
+	<link href="http://f00.esfr.pl/ver-5ad2fd3beeae4c4f0c48b7c1046a3906/css/style_ie.css" type="text/css" rel="stylesheet" />
+<![endif]-->
+
+<script type="text/javascript">
+/* <![CDATA[ */  
+	var googleAnalyticsCode = "UA-799761-1";
+	var isPrint='false';
+	var lastPage=$.cookie('lastPage');
+	$(document).ready(function(){
+		start('false');
+	});
+/* ]]> */
+</script>
+
+<!-- 210121025 MTU CSS FIX Zestawy-->
+<style type="text/css">
+#menu-product li span {color: #d3d3d3; font-size: 13px; display: block; height: 23px; padding-top: 7px; background: url(//f00.esfr.pl/images/www/product-tab.png) right -126px no-repeat; padding-right: 9px;}
+/*MTU CSS FIX 'BTN Odbierz za godzinę'*/
+a.szybkaRezerwacja{background: url('//f00.esfr.pl/upload_module/graphics/buttony_sprite.png') no-repeat 0px -62px;display:block;height:31px;width:156px;font-size: 0;}
+a.szybkaRezerwacja:hover{background-position: 0px -93px}
+/*podmiana selektora w rotatorze*/
+.rotator ul.icon a{background: url("//f00.esfr.pl/upload_module/graphics/rotatorIcon.png") no-repeat scroll 0 0 transparent;}
+/*fix na opiniach*/
+//a.opinionAbuseLink, a.opinionAbuseLink:hover{line-height:20px;margin:0px}
+//.measure_box{line-height: 20px;}
+//.measure_box .Helpful{float:right;margin: 0 0 0 40px;}
+#notifyCookie{display:none;height:50px;}
+#notifyCookie .wrapper{background-color:#F8F8F8;width:100%;z-index:90;border-bottom:1px solid #D9D9D9;}
+#notifyCookie .fixed{position:fixed;top:0;}
+#notifyCookie .cnt{position:relative;width:960px;margin:0 auto;overflow:hidden;padding:5px 0px;height:45px;font-size:10px;}
+#notifyCookie h3{color:#000;float:left;text-align:right;width:150px;font-size:16px;line-height:1.5;padding:0;}
+#notifyCookie p{color:#000;float:left;text-align:justify;width:825px;line-height:1.5;margin-left:25px;}
+#notifyCookie ul{list-style: none;bottom:10px;font-weight:bold;left:870px;position:absolute;}
+#notifyCookie ul li{margin-top:2px;}
+#notifyCookieAck{font-size:14px;}
+/*ukrycie rek*/
+#promotedProducts{display:none;}
+/*abNewsletter*/
+#abNll{}
+#abNll .nllTop{width:580px;height:12px;background:url('//f00.esfr.pl/upload_module/events/2013/promocja-kuponowa-td/top.png') no-repeat 0 0;}
+#abNll .nllBot{width:580px;height:12px;background:url('//f00.esfr.pl/upload_module/events/2013/promocja-kuponowa-td/bot.png') no-repeat 0 0;}
+#abNll .nllContainer{position:relative;width:540px;padding:40px 20px 20px 20px;background:url('//f00.esfr.pl/upload_module/events/2013/promocja-kuponowa-td/background.png') repeat-y 0 0;}
+#abNll #nllDisable{position:absolute;bottom:0px;left:160px;overflow:hidden;margin:0;font-weight:bold;text-transform:uppercase;text-decoration:underline;color:#999;font-size:14px;}
+#abNll #nllClose{position:absolute;top:0px;left:10px;overflow:hidden;margin:0;font-weight:bold;text-transform:uppercase;text-decoration:underline;}
+#abNll #polityka_link{position:absolute;bottom:0px;right:10px;overflow:hidden;margin:0;font-weight:bold;text-transform:uppercase;text-decoration:underline;}
+#abNll .l{position:absolute;top:-60px;left:380px;width:272px;height:192px;overflow:hidden;margin:0;background:url('//f00.esfr.pl/upload_module/events/2013/promocja-kuponowa-td/babka.png') no-repeat 0 0;}
+#abNll .nllWrapper{width:400px;margin:0px auto;padding:5px 15px;}
+#abNll .input-wrapper{background:url("//f00.esfr.pl/upload_module/euro_newsletter/input-bg.png") no-repeat scroll 0 0 transparent;float:left;height:29px;position:relative;width:241px;}
+#abNll .input-wrapper input{color:#333333;font-family:Arial;font-size:12px;font-weight:bold;left:11px;position:absolute;top:6px;width:219px;}
+#abNll #nllSubmit{background:url("//f00.esfr.pl/upload_module/euro_newsletter/send-btn.png") no-repeat scroll 0 0 transparent;display:block;float:left;height:30px;margin-left:16px;text-indent:-9999px;width:132px;cursor:pointer;}
+/*styl statusu świątecznego*/
+#products-list .info.realizacja a.fancybox.cred.block.pL40.pT10.pB10.mT3{
+	padding: 5px 0px 5px 40px !important;
+	margin: 0px !important; 
+	color: #008000 !important;
+}
+.product .info a.fancybox.cred.block.mR3.mT3.pT10.pB10.pL40{
+	padding: 5px 0px 5px 40px !important;
+	margin: 0px 3px 0px 0px !important; 
+	color: #008000 !important;
+}
+/*dymki prod*/
+.dymekSzczegoly{background: url("//f00.esfr.pl/images/www/btn-miniPreview.png") no-repeat scroll -118px 0px;display: block;height:25px;width: 75px;}
+.dymekSzczegoly:hover{background-position: -118px -25px;}
+.deliveryDayList li a{height:125px !important;}
+.deliveryDayList .deliveryName{white-space: normal !important;}
+.deliveryDayList li.active .offertItem a.m256b{display:none;}
+.deliveryDayList li.active .offertItem .none.m256bNone{display:inline !important;}
+
+/*nsltr*/
+#new-newsletter span.nicon{background: url('//f01.esfr.pl/upload_module/graphics/newsletter_sprite.png') no-repeat 0px -40px;}
+#new-newsletter span.narr{background: url('//f01.esfr.pl/upload_module/graphics/newsletter_sprite.png') no-repeat 0px -57px;}
+#new-newsletter ul li ul li a.nsltrSend{background: url('//f01.esfr.pl/upload_module/graphics/newsletter_sprite.png') no-repeat 0px -20px;}
+
+/*okazja-dnia-baner*/
+#ddd_right_voucher{cursor:pointer;width:121px;padding: 5px 0;overflow:hidden;overflow:hidden;background-color:#FFF;border:2px solid #CCCCCC;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;}
+#ddd_right_voucher.ddd_right_voucher_noborder{border:0px none;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;}
+#ddd_right_voucher .logo{width:121px;margin: 5px auto 0px auto;}
+#ddd_right_voucher .photo, #ddd_k1_voucher .photo{width:100px;margin: 0px auto;}
+#ddd_right_voucher .btnOkazjaDnia{display:block;background:url('//f00.esfr.pl/si_upload/gfx/2014/02_26_okazja_dnia/btn-od.png') no-repeat 0 0;width:105px;height:18px;text-indent:-999em;font-size:0;margin: 0px auto 5px auto;}
+#ddd_k1_voucher{width:680px;overflow:hidden;background-color:#FFF;border:1px solid #CCCCCC;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}
+#ddd_k1_voucher h2{overflow:hidden;text-transform:uppercase;font-size:20px;margin-top:5px;font-weight:bold;width:350px;}
+#ddd_k1_voucher .priceAndButtonOkazjaDnia{position:absolute;left:325px;bottom:5px;width:350px;}
+#ddd_k1_voucher .btnOkazjaDnia{display:block;background:url('//f00.esfr.pl/si_upload/gfx/2014/02_26_okazja_dnia/btn_zlap_okazje_mini.gif') no-repeat 0 0;width:176px;height:30px;text-indent:-999em;font-size:0;margin:0px 0px 5px 5px;}
+
+/*styl dla kosztów dostawy*/
+#content-2c #products-list .prices-box .delivery, #content-2c .product .prices .delivery{display:none;}
+
+/*rotator na listingach*/
+#seeAlsoBlock.carouselOnListing .bgnavy{background: none #0C4DA2 !important;-webkit-border-bottom-right-radius: 5px;-webkit-border-bottom-left-radius: 5px;-moz-border-radius-bottomright: 5px;-moz-border-radius-bottomleft: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;}
+#content-2c #seeAlsoBlock .bgnavy.btns{height: 18px;padding: 8px 10px 5px;}
+#seeAlsoBlock.carouselOnListing .see-also .jcarousel-next-horizontal {right: 5px;top: 51%;}
+#seeAlsoBlock.carouselOnListing .see-also .jcarousel-prev-horizontal {left: 5px;top: 51%;}
+#seeAlsoBlock.carouselOnListing .see-also .jcarousel-clip{background:#fff;box-shadow: inset 20px 0 20px -5px #eaeaea, inset -20px 0 20px -5px #eaeaea;}
+#seeAlsoBlock.carouselOnListing .jcarousel-next-horizontal {
+	background: url("//f00.esfr.pl/si_upload/unity/graphics/arrow-right.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	cursor: pointer;
+	height: 20px;
+	position: absolute;
+	width: 13px;
+}
+#seeAlsoBlock.carouselOnListing .jcarousel-prev-horizontal {
+	background: url("//f00.esfr.pl/si_upload/unity/graphics/arrow-left.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+	cursor: pointer;
+	height: 20px;
+	position: absolute;
+	width: 13px;
+}
+
+/*pami*/
+.bannerheader.rotator .pami a._qonO{display: block;height: 15px;position: absolute;right: 0;width: 28px;}
+.bannerheader.rotator .pami.pami-new{cursor: pointer;}
+.bannerheader.rotator .pami.pami-new img{margin-top:1px;}
+#bannerList .pami-new.pami a{margin: 0 !important;}
+
+/*livechat*/
+.lcIcon{display:block;float:left;}
+.lcIcon.lch_16{height:16px;line-height:16px;}
+.lcIcon.lch_18{height:18px;line-height:18px;}
+.lcIcon.lc_16{background: url(//f00.esfr.pl/si_upload/unity/files/16x16_lc.png) no-repeat scroll 0 0;}
+.lcIcon.tel1_16{background: url(//f00.esfr.pl/si_upload/unity/files/16x16_lc.png) no-repeat scroll 0 -34px;}
+.lcIcon.tel2_16{background: url(//f00.esfr.pl/si_upload/unity/files/16x16_lc.png) no-repeat scroll 0 -52px;}
+.lcIcon.lc_18{background: url(//f00.esfr.pl/si_upload/unity/files/18x18_lc.png) no-repeat scroll 0 0;}
+.lcIcon.tel1_18{background: url(//f00.esfr.pl/si_upload/unity/files/18x18_lc.png) no-repeat scroll 0 -39px;}
+.lcIcon.tel2_18{background: url(//f00.esfr.pl/si_upload/unity/files/18x18_lc.png) no-repeat scroll 0 -58px;}
+
+ /*migam.org*/
+.migamIcon{display:block;float:left;}
+.migamIcon.migam_16{height:16px;line-height:16px;background: url(//f00.esfr.pl/si_upload/unity/files/16x16_migamorg.png) no-repeat scroll 0 0;}
+</style>
+<!-- MTU ico safari-->
+<link rel="apple-touch-icon" href="/upload_module/graphics/ico/apple_57x57_euro.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/upload_module/graphics/ico/apple_72x72_euro.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/upload_module/graphics/ico/apple_114x114_euro.png" />
+<!-- koniec MTU ico safari-->
+<!-- sterowanie odbiorem 1h -->
+<script type="text/javascript">
+date_from_odbior1h = new Date(2013, 1, 23, 0, 1, 0);
+date_until_odbior1h = new Date(2013, 1, 24, 23, 59, 0);
+function banerSrcChange(elem){	
+	if(www.pageType !== "undefined" && (www.pageType == "productsList" || www.pageType == "product")){			
+		if(typeof bannerSrcToChange !== "undefined"){
+			var a = elem.find('img[src$="680x50_ogolny.png"]');
+			jQuery(a).attr('src','//f00.esfr.pl/upload_module/events/2013/479128/'+bannerSrcToChange);
+		}	
+	}	
+}
+</script>
+
+
+
+	<script type="text/javascript" src="http://f01.esfr.pl/ver-0dda5d974e2432b24700564f3ba3a91f/javascript/new/mainPage.js" ></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			try{
+				startMainPage();
+				$('#artBox0 .roll2').click();
+			}catch(e){}
+		});
+	</script>	
+
+
+	
+
+
+
+	
+
+
+<script type="text/javascript">
+var cookie_domain = '.euro.com.pl';
+
+var referrer = document.referrer;
+var currentUrl = encodeURIComponent(document.location.href);
+
+if (typeof(productId) == "undefined") {
+	productId = 0;
+}
+if (typeof(productCode) == "undefined") {
+	productCode = '';
+}
+if (typeof(productsGroupId) == "undefined") {
+	productsGroupId = 0;
+}
+if (typeof(suiteId) == "undefined") {
+	suiteId = 0;
+}
+if (typeof(suiteCode) == "undefined") {
+	suiteCode = '';
+}
+if (typeof(nodeName) == "undefined") {
+	nodeName = '';
+}
+if (typeof(pageType) == "undefined") {
+	pageType = '';
+}
+
+logVisit();
+
+var ownIp = false;
+
+</script>	
+	
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+			
+		
+	
+
+
+	
+
+
+
+</head>
+<body>
+	
+<script type="text/javascript">
+	dataLayer = [{'visitorId': customer_id(),'visitId': visit_id(), 'url':document.location.href,'cannonical-url':document.location.protocol+'//'+document.location.host+document.location.pathname}];
+	dL2 = [{'visitorId': customer_id(),'visitId': visit_id(), 'url':document.location.href,'cannonical-url':document.location.protocol+'//'+document.location.host+document.location.pathname}];
+	</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NF2M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NF2M');
+</script>
+	
+<div id="empty-frontOperator-bar"></div>
+<div id="empty-partner-bar"></div>
+	<div id="container">
+		
+
+<div id="top">
+	
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<h1><a class="logo fleft" href="/"><img title="RTV EURO AGD - Lider rynku RTV i AGD w Polsce" alt="RTV EURO AGD - Lider rynku RTV i AGD w Polsce" src="//f00.esfr.pl/si_upload/gfx/common/logo.png"/></a></h1>
+<div class="fright">
+	<div id="right_side1">
+		<a id="kontakt" class="b0 p0 fleft" title="Kontakt: 855 855 855 (z tel. stacjonarnych i komórkowych)" href="/cms/kontakt.bhtml" rel="nofollow" style="position:static;top:0;">
+			<span class="block mT1 f12 bold fleft" style="margin-top:1px"> Kontakt</span> 
+			<span class="lcIcon tel1_16 mL5 pL20 bold lch_16 f13">855 855 855</span> 
+			<span class="clear"></span>
+		</a>
+		<a id="livechat" class="lc-element lc-old b0 p0 fleft" href="#" data-lc-placeholder="naglowek" style="display:none !important;">
+			<span class="lcIcon lc_16 mL5 pL20 bold lch_16 f13">Livechat</span>
+			<span class="clear"></span>
+		</a>
+		<div class="clear"></div>
+	</div>
+	<div id="left_side1">
+		<div class="fright small-menu">
+			<a class="bnone" title="Centrum Informacji udzieli odpowiedzi na najczęściej zadawane pytania" href="/cms/centrum-informacji.bhtml?link=sg-naglowek" rel="nofollow">Centrum Informacji</a>
+			<a title="Status zamówienia" href="/customer-order-list.bhtml" rel="nofollow">Status zamówienia</a>
+			<a title="Dostawa" href="/cms/centrum-informacji.bhtml?sp=e3&link=sg-naglowek" rel="nofollow">Dostawa</a>
+		</div>
+	</div>
+<div class="clear"></div>
+<div id="right_side2">	
+	<div class="main-menu">
+		<a class="cart" title="Koszyk" href="/cart.bhtml" rel="nofollow">Koszyk</a>
+		<div id="small-cart2"></div>
+		<div id="small-cart"></div>
+	</div>
+</div>
+<div id="printButton"><a href="javascript:void(0)" onclick="jQuery('#printButton').focus();window.print();">Drukuj</a></div>
+
+<div id="left_side2">
+	<ul class="main-menu">
+		<li id="znajdz-sklep">
+			<a title="Znajdź najbliższy sklep RTV EURO AGD" href="/sklepy.bhtml" >Znajdź sklep</a>
+		</li>		
+		<li id="raty_menu">
+			<a title="Zakupy na raty - dowiedz się, jak kupić na raty w sklepach i internecie" href="/cms/raty.bhtml?link=naglowek" rel="nofollow">Zakupy na raty</a>
+		</li>
+		<li id="reklamacje">
+			<a title="Reklamacje - przeczytaj co zrobić, gdy sprzęt nie działa" href="/cms/centrum-informacji.bhtml?sp=e8&link=sg-naglowek" rel="nofollow">Reklamacje</a>
+		</li>
+
+
+
+
+		<li id="gazetka">
+			<a title="Gazetka promocyjna - zobacz najlepsze oferty promocyjne" href="/gazetka/gazetka-promocyjna.bhtml?link=naglowek#content-1c">Gazetka promocyjna</a>
+		</li>
+
+
+
+
+
+
+	</ul>
+</div>	
+</div>
+<div class="clear"></div>
+
+
+	
+
+
+
+</div>
+<div class="content-corners-top"></div>
+<div class="content content-menu">
+	<div id="main-menu">
+		
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<ul id="menu">
+	
+	
+	<li class="fleft menu-btn-wrap first " id="menu-1448166">
+	
+		<a class="main-link block" href="/rtv.bhtml">
+			<span class="menu-btn" style="width:125px;"><span>Telewizory i RTV</span></span>
+		</a>
+		<div style="left:-16px;" class="ver2 second-level">
+	<div class="second-level-con">
+		<div class="pR10">
+			<ul class="col">
+				<li>
+					<a title="Telewizory OLED, LED, LCD, 3D i 4K UHD" href="/telewizory-led-lcd-plazmowe.bhtml">
+						Telewizory OLED, LED, LCD, 3D i 4K UHD
+					</a>
+				</li>
+				<li>
+					<a title="Kino domowe" href="/kino-domowe.bhtml">
+						Kino domowe
+					</a>
+					<ul>
+						<li>
+							<a title="Zestawy kina domowego" href="/zestawy-kina-domowego1.bhtml">
+								Zestawy kina domowego
+							</a>
+						</li>
+						<li>
+							<a title="Soundbar i speakerbar" href="/soundbar-speakerbar.bhtml">
+								Soundbar i speakerbar
+							</a>
+						</li>
+						<li>
+							<a title="Amplitunery" href="/amplitunery.bhtml">
+								Amplitunery
+							</a>
+						</li>
+						<li>
+							<a href="/kino-domowe.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>						
+					</ul>
+				</li>
+				<li>
+					<a title="Blu-ray, DVD, nagrywanie" href="/dvd.bhtml">
+						Blu-ray, DVD, nagrywanie
+					</a>
+					<ul>
+						<li>
+							<a title="Odtwarzacze Blu-ray" href="/odtwarzacze-blu-ray.bhtml">
+								Odtwarzacze Blu-ray
+							</a>
+						</li>
+						<li>
+							<a title="Odtwarzacze multimedialne" href="/odtwarzacze-multimedialne.bhtml">
+								Odtwarzacze multimedialne
+							</a>
+						</li>
+						<li>
+							<a title="Odtwarzacze DVD" href="/odtwarzacze-dvd.bhtml">
+								Odtwarzacze DVD
+							</a>
+						</li>
+						<li>
+							<a href="/dvd.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Car Audio" href="/car-audio.bhtml">
+						Car Audio
+					</a>
+					<ul>
+						<li>
+							<a title="Radioodtwarzacze samochodowe" href="/radioodtwarzacze-samochodowe.bhtml">
+								Radioodtwarzacze samochodowe
+							</a>
+						</li>
+						<li>
+							<a title="Głośniki samochodowe" href="/glosniki-samochodowe.bhtml">
+								Głośniki samochodowe
+							</a>
+						</li>
+						<li>
+							<a title="Wzmacniacze samochodowe" href="/wzmacniacze-samochodowe.bhtml">
+								Wzmacniacze samochodowe
+							</a>
+						</li>
+						<li>
+							<a title="CB radia" href="/radia-cb.bhtml">
+								CB radia
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a title="HiFi Audio" href="/hifi-audio.bhtml">
+						HiFi Audio
+					</a>
+					<ul>
+						<li>
+							<a title="Mikro i mini wieże" href="/zestawy-muzyczne.bhtml">
+								Mikro i mini wieże
+							</a>
+						</li>
+						<li>
+							<a title="Systemy multiroom" href="/systemy-muzyczne.bhtml">
+								Systemy multiroom
+							</a>
+						</li>
+						<li>
+							<a title="Systemy Audio, AirPlay i Bluetooth" href="/stacje-dokujace-ipod-iphone.bhtml">
+								Systemy Audio, AirPlay i Bluetooth
+							</a>
+						</li>
+						<li>
+							<a title="Wzmacniacze" href="/wzmacniacze.bhtml">
+								Wzmacniacze
+							</a>
+						</li>
+						<li>
+							<a title="Odtwarzacze CD i sieciowe" href="/odtwarzacze-cd.bhtml">
+								Odtwarzacze CD i sieciowe
+							</a>
+						</li>
+						<li>
+							<a title="Gramofony" href="/gramofony.bhtml">
+								Gramofony
+							</a>
+						</li>
+						<li>
+							<a title="Kolumny audio" href="/kolumny-audio.bhtml">
+								Kolumny audio
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Drobny sprzęt RTV" href="/drobny-sprzet-rtv.bhtml">
+						Drobny sprzęt RTV
+					</a>
+					<ul>
+						<li>
+							<a title="Radioodtwarzacze" href="/radioodtwarzacze-cd.bhtml">
+								Radioodtwarzacze
+							</a>
+						</li>
+						<li>
+							<a title="Głośniki przenośne" href="/glosniki-przenosne1.bhtml">
+								Głośniki przenośne
+							</a>
+						</li>
+						<li>
+							<a title="Radioodbiorniki" href="/radioodbiorniki.bhtml">
+								Radioodbiorniki
+							</a>
+						</li>
+						<li>
+							<a title="Radiobudziki" href="/radiobudziki.bhtml">
+								Radiobudziki
+							</a>
+						</li>
+						<li>
+							<a title="Dyktafony cyfrowe" href="/dyktafony-cyfrowe.bhtml">
+								Dyktafony cyfrowe
+							</a>
+						</li>
+						<li>
+							<a title="iPod i odtwarzacze MP3/MP4" href="/ipod-i-odtwarzacze-mp3-mp4.bhtml">
+								iPod i odtwarzacze MP3/MP4
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a title="Akcesoria" href="/akcesoria-rtv.bhtml">
+						Akcesoria
+					</a>
+					<ul>
+						<li>
+							<a title="Okulary 3D" href="/okulary-3d.bhtml">
+								Okulary 3D
+							</a>
+						</li>
+						<li>
+							<a title="Transmisja Audio, Wideo, WiFi" href="/transmisja-audio-wideo-wifi.bhtml">
+								Transmisja Audio, Wideo, WiFi
+							</a>
+						</li>
+						<li>
+							<a title="Uchwyty do telewizorów" href="/uchwyty-do-telewizorow.bhtml">
+								Uchwyty do telewizorów
+							</a>
+						</li>
+						<li>
+							<a title="Półki i podstawy" href="/polki-i-podstawy1.bhtml">
+								Półki i podstawy
+							</a>
+						</li>
+						<li>
+							<a title="Uchwyty głośnikowe" href="/uchwyty-glosnikowe.bhtml">
+								Uchwyty głośnikowe
+							</a>
+						</li>
+						<li>
+							<a title="Stoliki" href="/stoliki1.bhtml">
+								Stoliki
+							</a>
+						</li>
+						<li>
+							<a title="Słuchawki" href="/sluchawki3.bhtml">
+								Słuchawki
+							</a>
+						</li>
+						<li>
+							<a title="Tunery TV DVB-T" href="/tunery-dvb-t.bhtml">
+								Tunery TV DVB-T
+							</a>
+						</li>
+						<li>
+							<a title="Tunery TV DVB-S" href="/tunery-telewizji-satelitarnej.bhtml">
+								Tunery TV DVB-S
+							</a>
+						</li>
+						<li>
+							<a title="Anteny" href="/anteny.bhtml">
+								Anteny
+							</a>
+						</li>
+						<li>
+							<a title="Kable audio-wideo" href="/kable.bhtml">
+								Kable audio-wideo
+							</a>
+						</li>
+						<li>
+							<a title="Kable antenowe" href="/kable-antenowe.bhtml">
+								Kable antenowe
+							</a>
+						</li>
+						<li>
+							<a title="Wtyki, złączki, gniazda" href="/wtyki-zlaczki-gniazda.bhtml">
+								Wtyki, złączki, gniazda
+							</a>
+						</li>
+						<li>
+							<a title="Przedłużacze sieciowe" href="/przedluzacze-sieciowe.bhtml">
+								Przedłużacze sieciowe
+							</a>
+						</li>
+						<li>
+							<a title="Anteny CB" href="/anteny-cb1.bhtml">
+								Anteny CB
+							</a>
+						</li>
+						<li>
+							<a title="Piloty uniwersalne" href="/piloty-uniwersalne.bhtml">
+								Piloty uniwersalne
+							</a>
+						</li>
+						<li>
+							<a href="/akcesoria-rtv.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+							<ul class="col gfxBanners">
+<div class="" >
+			<a href="/cms/telewizory-na-mistrzostwa.bhtml?link=ban-188x400" >
+				<img src="/banner/9739989522/188x400_football.jpg" alt="Telewizory z dyskiem twardym na mistrzostwa"/>
+			</a>
+</div>
+				</ul>
+		</div>
+      <div class="clear"></div>
+      <div>
+         <ul style="width: 100%;padding-left:0px !important;" class="col">
+            <li><a></a></li>
+            <li>
+            <a style="text-align: center;" title="Pokaż wszystkie produkty z kategorii Telewizory i RTV" href="/rtv.bhtml" class="bB0"> Pokaż wszystkie produkty z kategorii Telewizory i RTV  </a>
+            </li>
+         </ul>
+      </div>
+      <div class="clear"></div>
+		<div class="bottomBox">
+			<div class="fleft">
+				Sklepy producentów:
+				<a href="/cms/peiying.bhtml?link=logo-menu"><span class="peiying"></span></a>
+				<!-- |					 
+				<a href="/cms/sony.bhtml?link=logo-menu"><span class="sony"></span></a> -->
+				|
+				<a href="/cms/sis-kruger-matz.bhtml?link=logo-menu"><span class="krugermatz"></span></a>
+<!-- |
+					<a href="/cms/sis-apple.bhtml?link=logo-menu"><span class="sisapple"></span></a>-->	
+|
+					<a href="/cms/philips-video.bhtml?link=logo-menu"><span class="philips"></span></a>	
+|
+					<a href="/cms/sklep-samsung-strona-glowna.bhtml?link=logo-menu"><span class="sissamsung"></span></a>		
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="left-bg"></div>
+	<div class="right-bg"></div>
+</div>
+	</li>
+	
+	
+	<li class="fleft menu-btn-wrap " id="menu-1447080">
+	
+		<a class="main-link block" href="/agd.bhtml">
+			<span class="menu-btn" style="width:49px;"><span>AGD</span></span>
+		</a>
+		<div style="left:-16px;" class="ver2 second-level">
+	<div class="second-level-con">
+		<div class="pR10">
+			<ul class="col">
+				<li>
+					<a class="eT_nl" title="Pralki i suszarki" href="/pralki-i-suszarki.bhtml">
+						Pralki i suszarki
+					</a>
+					<ul>
+						<li>
+							<a title="Pralki" href="/pralki.bhtml">
+								Pralki
+							</a>
+						</li>
+						<li>
+							<a title="Suszarki" href="/suszarki.bhtml">
+								Suszarki
+							</a>
+						</li>
+						<li>
+							<a title="Pralko-suszarki" href="/pralko-suszarki.bhtml">
+								Pralko-suszarki
+							</a>
+						</li>
+						<li>
+							<a title="Pralki wirnikowe i wirówki" href="/pralki-wirnikowe-i-wirowki.bhtml">
+								Pralki wirnikowe i wirówki
+							</a>
+						</li>	
+					</ul>
+				</li>
+				<li>
+					<a class="eT_nl" title="Lodówki i zamrażarki" href="/lodowki-i-zamrazarki.bhtml">
+						Lodówki i zamrażarki
+					</a>
+					<ul>
+						<li>
+							<a title="Lodówki" href="/lodowki.bhtml">
+								Lodówki
+							</a>
+						</li>
+						<li>
+							<a title="Zamrażarki" href="/zamrazarki.bhtml">
+								Zamrażarki
+							</a>
+						</li>
+						<li>
+							<a title="Chłodziarki do wina" href="/chlodziarki-do-wina.bhtml">
+								Chłodziarki do wina
+							</a>
+						</li>
+						<li>
+							<a href="/lodowki-i-zamrazarki.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a class="eT_nl" title="Kuchnie wolnostojące" href="/kuchnie-wolnostojace.bhtml">
+						Kuchnie wolnostojące
+					</a>
+				</li>
+				<li>
+					<a class="eT_nl" title="Kuchenki mikrofalowe" href="/kuchenki-mikrofalowe.bhtml">
+						Kuchenki mikrofalowe
+					</a>
+				</li>
+				<li>
+					<a class="eT_nl" title="Okapy kuchenne" href="/okapy.bhtml">
+						Okapy kuchenne
+					</a>
+				</li>
+				<li>
+					<a class="eT_nl" title="Zmywarki" href="/zmywarki.bhtml">
+						Zmywarki
+					</a>
+				</li>
+				<li>
+					<a class="eT_nl" title="Armatura kuchenna" href="/armatura-kuchenna.bhtml">
+						Armatura kuchenna
+					</a>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a class="eT_nl" title="Akcesoria AGD" href="/akcesoria-agd.bhtml">
+						Akcesoria AGD
+					</a>
+					<ul>
+						<li>
+							<a title="Filtry do okapów" href="/filtry-do-okapow.bhtml">
+								Filtry do okapów
+							</a>
+						</li>
+						<li>
+							<a title="Wyposażenie do pralek i suszarek" href="/wyposazenie-do-pralek-i-suszarek.bhtml">
+								Wyposażenie do pralek i suszarek
+							</a>
+						</li>
+						<li>
+							<a title="Produkty do zmywarek" href="/produkty-do-zmywarek.bhtml">
+								Produkty do zmywarek
+							</a>
+						</li>
+						<li>
+							<a title="Produkty do lodówek" href="/produkty-do-lodowek.bhtml">
+								Produkty do lodówek
+							</a>
+						</li>
+						<li>
+							<a title="Produkty czyszczące" href="/produkty-czyszczace5,h1.bhtml">
+								Produkty czyszczące
+							</a>
+						</li>
+						<li>
+							<a title="Środki do prania" href="/srodki-do-prania.bhtml">
+								Środki do prania
+							</a>
+						</li>
+						<li>
+							<a title="Suszarki do ubrań" href="/suszarki-do-ubran.bhtml">
+								Suszarki do ubrań
+							</a>
+						</li>
+						<li>
+							<a title="Garnki i czajniki" href="/garnki-i-czajniki.bhtml">
+								Garnki i czajniki
+							</a>
+						</li>
+						<li>
+							<a title="Patelnie" href="/patelnie1.bhtml">
+								Patelnie
+							</a>
+						</li>
+						<li>
+							<a title="Pojemniki" href="/pojemniki.bhtml">
+								Pojemniki
+							</a>
+						</li>
+						<li>
+							<a title="Węże do gazu" href="/weze-do-gazu.bhtml">
+								Węże do gazu
+							</a>
+						</li>
+						<li>
+							<a title="Węże do wody" href="/weze-do-wody.bhtml">
+								Węże do wody
+							</a>
+						</li>
+						<li>
+							<a title="Odkamieniacze" href="/odkamieniacze.bhtml">
+								Odkamieniacze
+							</a>
+						</li>
+						<li>
+							<a title="Wyposażenie do okapów" href="/wyposazenie-do-okapow.bhtml">
+								Wyposażenie do okapów
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+							<ul class="col gfxBanners">
+<div class="" >
+			<a href="/cms/candy-70-urodziny.bhtml?link=ban-940x80" >
+				<img src="/banner/9685226707/Candy70_EURORTVAGD_Baner_188x80_v2.png" alt="Kup produkty marki Candy i wygraj Fiata 500!"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/search.bhtml?keyword=josmegmaj&searchType=tag&link=188x80" >
+				<img src="/banner/9609901187/188x80_smeggg.jpg" alt="Smeg -10%"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/search.bhtml?keyword=jolduravitkwi&searchType=tag&link=188x80" >
+				<img src="/banner/9593947572/188x80_duravit.jpg" alt="Zlewozmywaki Duravit -100 zł"/>
+			</a>
+</div>
+<div class=""  id="Wejdź do sklepu Bosch!">
+			<a href="/cms/sis-bosch.bhtml?link=ban188x80" >
+				<img src="/banner/4400323872/188x80_bosch_inspirujaca technoloeia.jpg" alt="Wejdź do sklepu Bosch!"/>
+			</a>
+</div>
+<div class=""  id="Schock - armatura kuchenna  ">
+			<a href="/cms/schock-oferta.bhtml?link=ban188x80" >
+				<img src="/banner/8488387502/188x80_schock_colour_your_life.jpg" alt="Schock - armatura kuchenna  "/>
+			</a>
+</div>
+				</ul>
+		</div>
+      <div class="clear"></div>
+      <div>
+         <ul style="width: 100%;padding-left:0px !important;" class="col">
+            <li><a></a></li>
+            <li>
+            <a style="text-align: center;" title="Pokaż wszystkie produkty z kategorii AGD" href="/agd.bhtml" class="bB0"> Pokaż wszystkie produkty z kategorii AGD </a>
+            </li>
+         </ul>
+      </div>
+      <div class="clear"></div>
+		<div class="bottomBox">
+			<div class="fleft">
+				Sklepy producentów:
+					<a class="eT_old" href="/cms/sklep_aeg.bhtml?link=logo-menu"><span class="aeg"></span></a>
+					| 
+					<a class="eT_old" href="/cms/sis-bosch.bhtml?link=logo-menu"><span class="bosch"></span></a>
+					|
+					<a href="/cms/sklep-samsung-strona-glowna.bhtml?link=logo-menu"><span class="sissamsung"></span></a>
+			</div>
+			<div class="ffri fright none">
+				<a class="eT_opd" href="/search/agd,f3.bhtml?keyword=agd&searchType=tag">Outlet AGD</a>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="left-bg"></div>
+	<div class="right-bg"></div>
+</div>
+
+	</li>
+	
+	
+	<li class="fleft menu-btn-wrap " id="menu-1447783">
+	
+		<a class="main-link block" href="/agd-do-zabudowy.bhtml">
+			<span class="menu-btn" style="width:134px;"><span>AGD do zabudowy</span></span>
+		</a>
+		<div style="left:-16px;" class="ver2 second-level">
+	<div class="second-level-con">
+		<div class="pR10">
+			<ul class="col">
+				<li>
+					<a title="Piekarniki do zabudowy" href="/piekarniki-do-zabudowy.bhtml">
+						Piekarniki do zabudowy
+					</a>
+				</li>
+				<li>
+					<a title="Płyty do zabudowy" href="/plyty-do-zabudowy.bhtml">
+						Płyty do zabudowy
+					</a>
+				</li>
+				<li>
+					<a title="Kuchnie do zabudowy" href="/kuchnie-do-zabudowy.bhtml">
+						Kuchnie do zabudowy
+					</a>
+				</li>
+				<li>
+					<a title="Zmywarki do zabudowy" href="/zmywarki-do-zabudowy.bhtml">
+						Zmywarki do zabudowy
+					</a>
+				</li>
+				<li>
+					<a title="Okapy kuchenne" href="/okapy-do-zabudowy.bhtml">
+						Okapy kuchenne
+					</a>
+				</li>
+				<li>
+					<a title="Kuchenki mikrofalowe do zabudowy" href="/kuchenki-mikrofalowe-do-zabudowy.bhtml">
+						Kuchenki mikrofalowe do zabudowy
+					</a>
+				</li>
+				<li>
+					<a title="Lodówki i zamrażarki do zabudowy" href="/lodowki-i-zamrazarki-do-zabudowy.bhtml">
+						Lodówki i zamrażarki do zabudowy
+					</a>
+				</li>
+				<li>
+					<a title="Pralki i pralko-suszarki do zabudowy" href="/pralki-i-pralko-suszarki-do-zabudowy.bhtml">
+						Pralki i pralko-suszarki do zabudowy
+					</a>
+				</li>
+				<li>
+					<a title="Ekspresy do zabudowy" href="/ekspresy-do-zabudowy.bhtml">
+						Ekspresy do zabudowy
+					</a>
+				</li>
+				<li>
+					<a title="Urządzenia do gotowania na parze" href="/urzadzenia-do-gotowania-na-parze.bhtml">
+						Urządzenia do gotowania na parze
+					</a>
+				</li>
+				<li>
+					<a title="Armatura kuchenna" href="/armatura-kuchenna.bhtml">
+						Armatura kuchenna
+					</a>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a class="eT_nl" title="Akcesoria AGD" href="/akcesoria-agd.bhtml">
+						Akcesoria AGD
+					</a>
+					<ul>
+						<li>
+							<a title="Filtry do okapów" href="/filtry-do-okapow.bhtml">
+								Filtry do okapów
+							</a>
+						</li>
+						<li>
+							<a title="Wyposażenie do pralek i suszarek" href="/wyposazenie-do-pralek-i-suszarek.bhtml">
+								Wyposażenie do pralek i suszarek
+							</a>
+						</li>
+						<li>
+							<a title="Produkty do zmywarek" href="/produkty-do-zmywarek.bhtml">
+								Produkty do zmywarek
+							</a>
+						</li>
+						<li>
+							<a title="Produkty do lodówek" href="/produkty-do-lodowek.bhtml">
+								Produkty do lodówek
+							</a>
+						</li>
+						<li>
+							<a title="Produkty czyszczące" href="/produkty-czyszczace5,h1.bhtml">
+								Produkty czyszczące
+							</a>
+						</li>
+						<li>
+							<a title="Środki do prania" href="/srodki-do-prania.bhtml">
+								Środki do prania
+							</a>
+						</li>
+						<li>
+							<a title="Suszarki do ubrań" href="/suszarki-do-ubran.bhtml">
+								Suszarki do ubrań
+							</a>
+						</li>
+						<li>
+							<a title="Garnki i czajniki" href="/garnki-i-czajniki.bhtml">
+								Garnki i czajniki
+							</a>
+						</li>
+						<li>
+							<a title="Patelnie" href="/patelnie1.bhtml">
+								Patelnie
+							</a>
+						</li>
+						<li>
+							<a title="Pojemniki" href="/pojemniki.bhtml">
+								Pojemniki
+							</a>
+						</li>
+						<li>
+							<a title="Węże do gazu" href="/weze-do-gazu.bhtml">
+								Węże do gazu
+							</a>
+						</li>
+						<li>
+							<a title="Węże do wody" href="/weze-do-wody.bhtml">
+								Węże do wody
+							</a>
+						</li>
+						<li>
+							<a title="Odkamieniacze" href="/odkamieniacze.bhtml">
+								Odkamieniacze
+							</a>
+						</li>
+						<li>
+							<a title="Wyposażenie do okapów" href="/wyposazenie-do-okapow.bhtml">
+								Wyposażenie do okapów
+							</a>
+						</li>
+					</ul>
+				</li>
+         </ul>
+					<ul class="col gfxBanners">
+<div class="" >
+			<a href="/search.bhtml?keyword=jolduravitkwi&searchType=tag&link=188x80" >
+				<img src="/banner/9593947572/188x80_duravit.jpg" alt="Zlewozmywaki Duravit -100 zł"/>
+			</a>
+</div>
+<div class=""  id="Wejdź do sklepu Bosch!">
+			<a href="/cms/sis-bosch.bhtml?link=ban188x80" >
+				<img src="/banner/4400323872/188x80_bosch_inspirujaca technoloeia.jpg" alt="Wejdź do sklepu Bosch!"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/cms/sklep_aeg.bhtml?link=ban-188x80" >
+				<img src="/banner/7398513822/188x80_AEG_sklep.jpg" alt="Świat perfekcji AEG-Electrolux"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/cms/zlewozmywaki-blanco.bhtml?link=ban-188x80" >
+				<img src="/banner/5384815577/188x80_blanco.jpg" alt="Baterie kuchenne i zlewozmywaki marki Blanco."/>
+			</a>
+</div>
+				</ul>
+      </div>
+      <div class="clear"></div>
+      <div>
+         <ul style="width: 100%;padding-left:0px !important;" class="col">
+            <li><a></a></li>
+            <li>
+            <a style="text-align: center;" title="Pokaż wszystkie produkty z kategorii AGD do zabudowy" href="/agd-do-zabudowy.bhtml" class="bB0"> Pokaż wszystkie produkty z kategorii AGD do zabudowy </a>
+            </li>
+         </ul>
+      </div>
+      <div class="clear"></div>
+		<div class="bottomBox">
+			<div class="fleft">
+				Sklepy producentów: 
+					 <a class="eT_old" href="/cms/sklep_aeg.bhtml?link=logo-menu"><span class="aeg"></span></a>
+					| 
+					<a class="eT_old" href="/cms/sis-bosch.bhtml?link=logo-menu"><span class="bosch"></span></a>
+					|
+				<a href="/cms/sklep-samsung-strona-glowna.bhtml?link=logo-menu"><span class="sissamsung"></span></a>
+			</div>
+			<div class="ffri fright none">
+				<a href="/search/agd-do-zabudowy,f3.bhtml?keyword=agd&searchType=tag">Outlet AGD do zabudowy</a>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="left-bg"></div>
+	<div class="right-bg"></div>
+</div>
+
+
+	</li>
+	
+	
+	<li class="fleft menu-btn-wrap " id="menu-10090531">
+	
+		<a class="main-link block" href="/agd-male.bhtml">
+			<span class="menu-btn" style="width:79px;"><span>AGD małe</span></span>
+		</a>
+		<div style="left:-16px;" class="ver2 second-level">
+	<div class="second-level-con">
+    	<div class="pR10">
+        	<ul class="col">
+            	<li>
+                	<a title="Do domu" href="/do-domu.bhtml">Do domu</a>
+                    <ul>
+                    	<li>
+                        	<a title="Odkurzacze" href="/odkurzacze.bhtml">Odkurzacze</a>
+                        </li>
+                        <li>
+                            <a title="Żelazka" href="/zelazka.bhtml">Żelazka</a>
+                        </li>
+                        <li>
+                            <a title="Parownice" href="/czysciki-parowe.bhtml">Parownice</a>
+                        </li>
+                        <li>
+                            <a title="Maszyny do szycia" href="/maszyny-do-szycia.bhtml">Maszyny do szycia</a>
+                        </li>
+                        <li>
+                            <a href="/do-domu.bhtml" class="more">pokaż wszystkie</a>
+                        </li>
+                   	</ul>
+                </li>
+	          <li>
+	              <a title="Do kuchni" href="/do-kuchni.bhtml">Do kuchni</a>
+                  <ul>
+	                  <li>
+		                  <a title="Ekspresy ciśnieniowe" href="/ekspresy-cisnieniowe.bhtml">Ekspresy ciśnieniowe</a>
+			          </li>
+                      <li>
+                          <a title="Czajniki elektryczne" href="/czajniki.bhtml">Czajniki elektryczne</a>
+                      </li>
+	                  <li>
+	                      <a title="Roboty wieloczynnościowe" href="/roboty-wieloczynnosciowe.bhtml">Roboty wieloczynnościowe</a>
+	                  </li>
+                      <li>
+	                      <a title="Blendery" href="/blendery.bhtml">Blendery</a>
+	                  </li>
+                      <li>
+                          <a title="Miksery ręczne" href="/miksery-reczne.bhtml">Miksery ręczne</a>
+                      </li>
+                      <li>
+                          <a title="Grille elektryczne" href="/grille.bhtml">Grille elektryczne</a>
+                      </li>
+                      <li>
+                          <a title="Sokowirówki" href="/sokowirowki.bhtml">Sokowirówki</a>
+                      </li>
+                      <li>
+                      	  <a title="Kuchenki mikrofalowe" href="/kuchenki-mikrofalowe.bhtml">Kuchenki mikrofalowe</a>
+                      </li>
+	                  <li>
+		                  <a title="Parowary" href="/parowary.bhtml">Parowary</a>
+		              </li>
+
+	                  <li>
+                          <a href="/do-kuchni.bhtml" class="more">pokaż wszystkie</a>
+                      </li>
+                 </ul>
+            </li>
+          </ul>
+          <ul class="col">
+			<li>
+	            <a title="Do higieny i pielęgnacji" href="/do-higieny-i-pielegnacji.bhtml">Do higieny i pielęgnacji</a>
+                <ul>
+	                <li>
+	                    <a title="Szczoteczki elektryczne" href="/szczoteczki-elektryczne.bhtml">Szczoteczki elektryczne</a>
+                    </li>
+                    <li>
+	                    <a title="Ciśnieniomierze" href="/cisnieniomierze.bhtml">Ciśnieniomierze</a>
+                    </li>
+                    <li>
+	                    <a title="Golarki męskie" href="/golarki.bhtml">Golarki męskie</a>
+                    </li>
+                    <li>
+                        <a title="Maszynki do strzyżenia" href="/maszynki-do-strzyzenia.bhtml">Maszynki do strzyżenia</a>
+                    </li>
+                    <li>
+                        <a title="Depilatory" href="/depilatory.bhtml">Depilatory</a>
+	                </li>
+	                <li>
+                        <a title="Prostownice i karbownice" href="/prostownice-i-karbownice.bhtml">Prostownice i karbownice</a>
+                    </li>                    
+                    <li>
+	                    <a title="Suszarki do włosów" href="/suszarki-do-wlosow.bhtml">Suszarki do włosów</a>
+                    </li>                    
+                    <li>
+                        <a title="Wagi łazienkowe" href="/wagi-lazienkowe.bhtml">Wagi łazienkowe</a>
+	                </li>
+	                <li>
+                        <a title="Alkomaty" href="/alkomaty.bhtml">Alkomaty</a>
+	                </li>
+                    <li>
+	                    <a href="/do-higieny-i-pielegnacji.bhtml" class="more">pokaż wszystkie</a>
+	                </li>                                                  
+                </ul>
+            </li>
+		    <li>
+	            <a title="Uzdatnianie powietrza" href="/ogrzewanie.bhtml">Uzdatnianie powietrza</a>
+                <ul>
+	                <li>
+	                    <a title="Nawilżacze powietrza" href="/nawilzacze-1.bhtml">Nawilżacze powietrza</a>
+                    </li>
+                    <li>
+	                    <a title="Oczyszczacze powietrza" href="/oczyszczacze-powietrza.bhtml">Oczyszczacze powietrza</a>
+	                </li>
+                    <li>
+	                    <a title="Wentylatory i klimatory" href="/wentylatory-i-klimatory1.bhtml">Wentylatory i klimatory</a>
+	                </li>
+                    <li>
+	                    <a title="Klimatyzatory przenośne" href="/klimatyzatory-przenosne1.bhtml">Klimatyzatory przenośne</a>
+	                </li>
+                    <li>
+                        <a href="/ogrzewanie.bhtml" class="more">pokaż wszystkie</a>
+                    </li>
+	            </ul>
+            </li>
+        </ul>
+	    <ul class="col">
+            <li>
+	            <a title="Akcesoria AGD-małe" href="/akcesoria-agd-male-.bhtml">Akcesoria AGD-małe</a>
+                <ul>
+	                <li>
+	                    <a title="Worki i filtry do odkurzaczy" href="/worki-i-filtry-do-odkurzaczy.bhtml">Worki i filtry do odkurzaczy</a>
+                    </li>
+                    <li>
+	                    <a title="Wyposażenie do odkurzaczy" href="/wyposazenie-do-odkurzaczy.bhtml">Wyposażenie do odkurzaczy</a>
+                    </li>
+	                <li>
+	                    <a title="Deski do prasowania" href="/deski-do-prasowania.bhtml">Deski do prasowania</a>
+                    </li>
+                    <li>
+	                    <a title="Akcesoria do parownic" href="/akcesoria-do-czyscikow-parowych.bhtml">Akcesoria do parownic</a>
+                    </li>
+                    <li>
+	                    <a title="Filtry do nawilżaczy" href="/filtry-do-nawilzaczy.bhtml">Filtry do nawilżaczy</a>
+                    </li>
+                    <li>
+	                    <a title="Produkty czyszczące" href="/produkty-czyszczace6,h2.bhtml">Produkty czyszczące</a>
+                    </li>
+                    <li>
+                        <a title="Kawy i herbaty" href="/kawy.bhtml">Kawy i herbaty</a>
+                    </li>
+                    <li>
+                        <a title="Wyposażenie do ekspresów" href="/wyposazenie-do-ekspresow.bhtml">Wyposażenie do ekspresów</a>
+                    </li>
+                    <li>
+                        <a title="Wyposażenie do urządzeń kuchennych" href="/wyposazenie-do-robotow-kuchennych.bhtml">Wyposażenie do urządzeń kuchennych</a>
+                    </li>
+                    <li>
+                        <a title="Przybory kuchenne" href="/przybory-kuchenne1.bhtml">Przybory kuchenne</a>
+                    </li>
+                    <li>
+                        <a title="Garnki i czajniki" href="/garnki-i-czajniki2.bhtml">Garnki i czajniki</a>
+                    </li>
+                    <li>
+                        <a title="Wkłady do dzbanków filtrujących" href="/wklady-do-dzbankow-filtrujacych.bhtml">Wkłady do dzbanków filtrujących</a>
+                    </li>
+                    <li>
+                        <a title="Końcówki do szczoteczek" href="/koncowki-do-szczoteczek.bhtml">Końcówki do szczoteczek</a>
+                    </li>
+                    <li>
+	                    <a title="Folie i ostrza do golarek" href="/folie-i-ostrza-do-golarek.bhtml">Folie i ostrza do golarek</a>
+                    </li>
+                    <li>
+                        <a href="/akcesoria-agd-male-.bhtml" class="more">pokaż wszystkie</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+					<ul class="col gfxBanners">
+<div class=""  id="Wentylatory, cyrkulatory, klimatyzatory">
+			<a href="/cms/wentylatory-uff-jak-goraco.bhtml?link=ban-188x400" >
+				<img src="/banner/9686199252/188x4x80_wentylacja.jpg" alt="Wentylatory, cyrkulatory, klimatyzatory"/>
+			</a>
+</div>
+			</ul>
+   	</div>
+	<div class="clear"></div>
+	<div>
+		<ul style="width: 100%;padding-left:0px !important;" class="col">
+	        <li><a></a></li>
+	        <li>
+	            <a style="text-align: center;" title="Pokaż wszystkie produkty z kategorii AGD małe" href="/agd-male.bhtml" class="bB0"> Pokaż wszystkie produkty z kategorii AGD małe </a>
+            </li>
+		</ul>
+	</div>
+    <div class="clear"></div>
+	    <div class="bottomBox">
+	    	<div class="fleft">
+				Sklepy producentów:
+					<a class="eT_old" href="/cms/sis-bosch.bhtml?link=logo-menu"><span class="bosch"></span></a>
+|
+					<a class="eT_old" href="/cms/sis-remington.bhtml?link=logo-menu"><span class="sisremington"></span></a>
+					<!-- |
+					<a class="eT_old" href="/cms/sis-kenwood.bhtml?link=logo-menu"><span class="kenwood"></span></a>
+|
+					<a class="eT_old" href="/cms/sis-delonghi.bhtml?link=logo-menu"><span class="delonghi"></span></a>-->
+					|
+					<a href="/cms/sklep-samsung-strona-glowna.bhtml?link=logo-menu"><span class="sissamsung"></span></a>
+					|
+					<a href="/cms/sis-russell-hobbs.bhtml?link=logo-menu"><span class="sisrussellhobbs"></span></a>
+
+			</div>
+	        <div class="ffri fright none">
+	            <a href="/search/agd-male,f3.bhtml?keyword=agd&searchType=tag">Outlet AGD małe</a>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div class="left-bg"></div>
+    <div class="right-bg"></div>
+</div>
+	</li>
+	
+	
+	<li class="fleft menu-btn-wrap " id="menu-11665882">
+	
+		<a class="main-link block" href="/komputery.bhtml">
+			<span class="menu-btn" style="width:89px;"><span>Komputery</span></span>
+		</a>
+		<div style="left:50px;" class="ver2 second-level">
+	<div style="width:810px" class="second-level-con">
+		<div class="pR10">
+			<ul class="col">
+				<li>
+					<a title="Laptopy, netbooki i ultrabooki, 2w1" href="/laptopy-i-netbooki.bhtml">
+						Laptopy, netbooki i ultrabooki, 2w1
+					</a>
+				</li>
+				<li>
+					<a title="Tablety multimedialne" href="/ipad-i-tablety-multimedialne.bhtml">
+						Tablety multimedialne
+					</a>
+				</li>
+				<li>
+					<a title="Komputery stacjonarne PC" href="/komputery-stacjonarne-pc.bhtml">
+						Komputery stacjonarne PC
+					</a>
+				</li>
+				<li>
+					<a title="Komputery All-In-One" href="/komputery-all-in-one.bhtml">
+						Komputery All-In-One
+					</a>
+				</li>
+				<li>
+					<a title="Monitory LED i LCD" href="/monitory-led-i-lcd.bhtml">
+						Monitory LED i LCD
+					</a>
+				</li>
+				<li>
+					<a title="Projektory multimedialne" href="/projektory-multimedialne.bhtml">
+						Projektory multimedialne
+					</a>
+				</li>
+				<li>
+					<a title="Dyski, PenDrive i napędy" href="/dyski-pendrive-i-napedy.bhtml">
+						Dyski, PenDrive i napędy
+					</a>
+					<ul>
+						<li>
+							<a title="Dyski twarde zewnętrzne" href="/dyski-twarde-zewnetrzne.bhtml">
+								Dyski twarde zewnętrzne
+							</a>
+						</li>
+						<li>
+							<a title="Dyski SSD" href="/dyski-wewnetrzne-ssd.bhtml">
+								Dyski SSD
+							</a>
+						</li>
+						<li>
+							<a title="Dyski sieciowe" href="/dyski-sieciowe.bhtml">
+								Dyski sieciowe
+							</a>
+						</li>
+						<li>
+							<a title="Odtwarzacze multimedialne" href="/odtwarzacze-multimedialne-.bhtml">
+								Odtwarzacze multimedialne
+							</a>
+						</li>
+						<li>
+							<a title="PenDrive (pamięci USB)" href="/pendrive-pamieci-usb.bhtml">
+								PenDrive (pamięci USB)
+							</a>
+						</li>
+						<li>
+							<a href="/dyski-pendrive-i-napedy.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Oprogramowanie" href="/oprogramowanie.bhtml">
+						Oprogramowanie
+					</a>
+				</li>
+				<li>
+					<a title="Czytniki E-booków" href="/czytniki-ebookow.bhtml">
+						Czytniki E-booków
+					</a>
+				</li>
+				</ul>
+				<ul class="col">
+				<li>
+					<a title="Drukarki i urządzenia biurowe" href="/drukarki-i-urzadzenia-biurowe.bhtml">
+						Drukarki i urządzenia biurowe
+					</a>
+					<ul>
+						<li>
+							<a title="Urządzenia wielofunkcyjne" href="/urzadzenia-wielofunkcyjne.bhtml">
+								Urządzenia wielofunkcyjne
+							</a>
+						</li>
+						<li>
+							<a title="Drukarki laserowe" href="/drukarki-laserowe.bhtml">
+								Drukarki laserowe
+							</a>
+						</li>
+						<li>
+							<a title="Drukarki atramentowe" href="/drukarki-atramentowe.bhtml">
+								Drukarki atramentowe
+							</a>
+						</li>
+						<li>
+							<a title="Drukarki 3D" href="/drukarki-3d.bhtml">
+								Drukarki 3D
+							</a>
+						</li>
+						<li>
+							<a title="Niszczarki" href="/niszczarki.bhtml">
+								Niszczarki
+							</a>
+						</li>
+						<li>
+							<a href="/drukarki-i-urzadzenia-biurowe.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Tusze i tonery" href="/tusze-i-tonery.bhtml">
+						Tusze i tonery
+					</a>
+				</li>
+				<li>
+					<a title="Kamery, głośniki i słuchawki" href="/kamery-glosniki-i-sluchawki.bhtml">
+						Kamery, głośniki i słuchawki
+					</a>
+				</li>
+				<li>
+					<a title="Bezpieczny i inteligentny dom" href="/monitoring-ip.bhtml">
+						Bezpieczny i inteligentny dom
+					</a>
+				</li>
+				<li>
+					<a title="Urządzenia sieciowe" href="/urzadzenia-sieciowe.bhtml">
+						Urządzenia sieciowe
+					</a>
+					<ul>
+						<li>
+							<a title="Routery Wi-Fi" href="/routery.bhtml">
+							Routery Wi-Fi
+							</a>
+						</li>
+						<li>
+							<a title="Dyski sieciowe" href="/dyski-sieciowe1.bhtml">
+							Dyski sieciowe
+							</a>
+						</li>
+						<li>
+							<a title="Urządzenia sieciowe" href="/urzadzenia-sieciowe1.bhtml">
+							Urządzenia sieciowe
+							</a>
+						</li>
+						<li>
+							<a href="/urzadzenia-sieciowe.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Podzespoły komputerowe" href="/podzespoly-komputerowe-pc.bhtml">
+						Podzespoły komputerowe
+					</a>
+				</li>
+			</ul>
+			<ul class="col">			
+				<li>
+					<a title="Akcesoria komputerowe" href="/akcesoria-komputerowe.bhtml">
+						Akcesoria komputerowe
+					</a>
+					<ul>
+						<li>
+							<a title="Myszy komputerowe" href="/myszy-komputerowe.bhtml">
+								Myszy komputerowe
+							</a>
+						</li>
+						<li>
+							<a title="Klawiatury komputerowe" href="/klawiatury-komputerowe.bhtml">
+								Klawiatury komputerowe
+							</a>
+						</li>
+						<li>
+							<a title="Głośniki komputerowe" href="/glosniki-komputerowe.bhtml">
+								Głośniki komputerowe
+							</a>
+						</li>
+						<li>
+							<a title="Słuchawki z mikrofonem" href="/sluchawki-z-mikrofonem.bhtml">
+								Słuchawki z mikrofonem
+							</a>
+						</li>
+						<li>
+							<a title="Kamery internetowe" href="/kamery-internetowe.bhtml">
+								Kamery internetowe
+							</a>
+						</li>
+						<li>
+							<a title="Etui do iPada i tabletów multimedialnych" href="/etui-do-ipada-i-tabletow-multimedialnych.bhtml">
+								Etui do iPada i tabletów multimedialnych
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria do tabletów" href="/akcesoria-do-ipada-i-tabletow-multimedialnych.bhtml">
+								Akcesoria do tabletów
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria do dysków twardych" href="/akcesoria-do-dyskow-twardych.bhtml">
+								Akcesoria do dysków twardych
+							</a>
+						</li>
+						<li>
+							<a title="Tablety graficzne" href="/tablety-graficzne.bhtml">
+								Tablety graficzne
+							</a>
+						</li>
+						<li>
+							<a title="Torby do laptopów" href="/torby-do-laptopow.bhtml">
+								Torby do laptopów
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria do laptopów" href="/akcesoria-do-laptopow.bhtml">
+								Akcesoria do laptopów
+							</a>
+						</li>
+						<li>
+							<a title="Baterie do laptopów" href="/baterie-do-laptopow.bhtml">
+								Baterie do laptopów
+							</a>
+						</li>
+						<li>
+							<a title="Zasilacze do laptopów" href="/zasilacze-do-laptopow.bhtml">
+								Zasilacze do laptopów
+							</a>
+						</li>
+						<li>
+							<a href="/akcesoria-komputerowe.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>						
+					</ul>
+				</li>
+			</ul>
+							<ul class="col gfxBanners">
+<div class="" >
+			<a href="/cms/dell-xps.bhtml?link=ban-188x80" >
+				<img src="/banner/9677384312/188x80_Dell_XPS.jpg" alt="Sprawdź przełomową serię XPS z bezramkowym wyświetlaczem QHD+. Zobacz >"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/search.bhtml?keyword=badmyszkidlagraczy&searchType=tag&link=ban-188x80" >
+				<img src="/banner/9543060067/188x80_myszy_dla_graczy.jpg" alt="Zobacz myszki dla prawdziwych graczy"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/tusze-i-tonery.bhtml?link=ban-188x80sg" >
+				<img src="/banner/8204891662/188x80_tusze_tonery.jpg" alt="Znajdź tusze i tonery do drukarki >>"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/cms/acer-aspire-v-nitro.bhtml?link=ban-188x80" >
+				<img src="/banner/8446944607/188x80_Acer_Inspiro_V.jpg" alt="Zachwycający design. Niezrównana wydajność. Doskonały obraz i dźwięk. Zobacz >"/>
+			</a>
+</div>
+				</ul>
+		</div>
+      <div class="clear"></div>
+      <div>
+         <ul style="width: 100%;padding-left:0px !important;" class="col">
+            <li><a></a></li>
+            <li>
+            <a style="text-align: center;" title="Pokaż wszystkie produkty z kategorii Komputery" href="/komputery.bhtml" class="bB0"> Pokaż wszystkie produkty z kategorii Komputery </a>
+            </li>
+         </ul>
+      </div>
+      <div class="clear"></div>
+		<div class="bottomBox">
+			<div class="fleft">
+				Sklepy producentów: 
+					<a href="/cms/intel-sklep.bhtml?link=logo-menu"><span class="intel"></span></a>
+					|
+					<a href="/cms/sis-modecom-your-lifestyle.bhtml?link=logo-menu"><span class="modecom"></span></a>
+					<!-- |
+					<a href="/cms/sony.bhtml?link=logo-menu"><span class="sony"></span></a>-->
+					|
+					<a href="/cms/sis-microsoft.bhtml?link=logo-menu"><span class="microsoft"></span></a>
+					| 
+					<!-- <a href="/cms/sis-canon-drukarki.bhtml?link=logo-menu"><span class="canon"></span></a>
+					 |
+					<a href="/cms/sis-apple.bhtml?link=logo-menu"><span class="sisapple"></span></a>
+					| -->
+					<a href="/cms/sis-kruger-matz.bhtml?link=logo-menu"><span class="krugermatz"></span></a>
+					|
+					<a href="/cms/sis-wd.bhtml?link=logo"><span class="wd"></span></a>
+					|
+					<a href="/cms/sklep-samsung-strona-glowna.bhtml?link=logo-menu"><span class="sissamsung"></span></a>
+					|
+					<a href="/cms/sis-acer.bhtml?link=logo-menu"><span class="sisacer"></span></a>
+			</div>
+			
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="left-bg"></div>
+	<div class="right-bg"></div>
+</div>
+	</li>
+	
+	
+	<li class="fleft menu-btn-wrap " id="menu-24929618">
+	
+		<a class="main-link block" href="/gry-i-konsole.bhtml">
+			<span class="menu-btn" style="width:97px;"><span>Gry i konsole</span></span>
+		</a>
+		<div style="right:-18px;" class="ver2 second-level">
+	<div class="second-level-con">
+		<div class="pR10">
+			<ul class="col">
+				<li>
+					<a title="PlayStation 4" href="/playstation-4.bhtml">
+						PlayStation 4 <i style="color:red">Nowość</i>
+					</a>
+					<ul>
+						<li>
+							<a title="Konsole PlayStation 4" href="/konsole-playstation-4.bhtml">
+							 Konsole PlayStation 4
+							</a>
+						</li>
+						<li>
+							<a title="Gry PlayStation 4" href="/gry-playstation-4.bhtml">
+							Gry PlayStation 4
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria PlayStation 4" href="/akcesoria-playstation-4.bhtml">
+							Akcesoria PlayStation 4
+							</a>
+						</li>
+						<li>
+							<a title="Kontrolery PlayStation 4" href="/kontrolery-do-konsoli-playstation-3,h4.bhtml">
+							Kontrolery do konsoli
+							</a>
+						</li>
+						<li>
+							<a title="PlayStation Network" href="/playstation-network3.bhtml">
+								PlayStation Network
+							</a>
+						</li>
+                                                <li>
+							<a href="/playstation-4.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="PlayStation 3" href="/playstation-3.bhtml">
+						PlayStation 3
+					</a>
+					<ul>
+						<li>
+							<a title="Konsole PlayStation 3" href="/konsole-playstation-3.bhtml">
+							Konsole PlayStation 3
+							</a>
+						</li>
+						<li>
+							<a title="Gry PlayStation 3" href="/gry-playstation-3.bhtml">
+							Gry PlayStation 3
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria PlayStation 3" href="/akcesoria-do-konsoli-playstation-3.bhtml">
+							Akcesoria PlayStation 3
+							</a>
+						</li>
+						<li>
+							<a title="Kontrolery do konsoli" href="/kontrolery-do-konsoli-playstation-3,h3.bhtml">
+							Kontrolery do konsoli
+							</a>
+						</li>
+						<li>
+							<a href="/playstation-3.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="PlayStation 2" href="/playstation-2.bhtml">
+						PlayStation 2
+					</a>
+				</li>
+				<li>
+					<a title="PlayStation Vita" href="/playstation-vita.bhtml">
+						PlayStation Vita
+					</a>
+				</li>
+				<li>
+					<a title="PlayStation Portable PSP" href="/playstation-portable-psp.bhtml">
+						PlayStation Portable PSP
+					</a>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a title="Xbox One" href="/xbox-one.bhtml">
+						Xbox One <i style="color:red">Nowość</i>
+					</a>
+					<ul>
+						<li>
+							<a title="Konsole Xbox One" href="/konsole-xbox-one.bhtml">
+							Konsole Xbox One
+							</a>
+						</li>
+						<li>
+							<a title="Gry Xbox One" href="/gry-xbox-one.bhtml">
+							Gry Xbox One
+							</a>
+						</li>
+                                                <li>
+							<a title="Akcesoria Xbox One" href="/akcesoria-xbox-one.bhtml">
+							Akcesoria Xbox One
+							</a>
+						</li>
+                                                <li>
+							<a title="Kontrolery do konsoli" href="/kontrolery-do-konsoli-xbox,h6.bhtml">
+							Kontrolery do konsoli
+							</a>
+						</li>
+                                                <li>
+							<a title="Xbox Live" href="/xbox-live1.bhtml">
+							Xbox Live
+							</a>
+						</li>
+                                                <li>
+							<a href="/xbox-one.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Xbox 360" href="/xbox-360.bhtml">
+						Xbox 360
+					</a>
+					<ul>
+						<li>
+							<a title="Konsole Xbox 360" href="/konsole-xbox-360.bhtml">
+							Konsole Xbox 360
+							</a>
+						</li>
+						<li>
+							<a title="Gry Xbox 360" href="/gry-xbox-360.bhtml">
+							Gry Xbox 360
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria Xbox 360" href="/akcesoria-do-konsoli-xbox.bhtml">
+							Akcesoria Xbox 360
+							</a>
+						</li>
+						<li>
+							<a title="Kontrolery do konsoli" href="/kontrolery-do-konsoli-xbox,h5.bhtml">
+							Kontrolery do konsoli
+							</a>
+						</li>
+						<li>
+							<a href="/xbox-360.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Nintendo Wii, WiiU, DS, 3DS" href="/nintendo.bhtml">
+						Nintendo Wii, WiiU, DS, 3DS
+					</a>
+				</li>
+				<li>
+					<a title="Inne konsole" href="/inne.bhtml">
+						Inne konsole
+					</a>
+				</li>
+				<li>
+					<a title="Słuchawki dla graczy" href="/sluchawki-z-mikrofonem,l1.bhtml">
+						Słuchawki dla graczy
+					</a>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a title="PC" href="/pc.bhtml">
+						PC
+					</a>
+					<ul>
+						<li>
+							<a title="Gry PC" href="/gry-pc.bhtml">
+							Gry PC
+							</a>
+						</li>
+						<li>
+							<a title="Kontrolery do gier" href="/kontrolery-do-pc,h1.bhtml">
+							Kontrolery do gier
+							</a>
+						</li>
+						<li>
+							<a title="Myszy komputerowe" href="/myszy.bhtml">
+							Myszy komputerowe
+							</a>
+						</li>
+						<li>
+							<a title="Klawiatury komputerowe" href="/klawiatury.bhtml">
+							Klawiatury komputerowe
+							</a>
+						</li>
+						<li>
+							<a title="Zestawy mysz i klawiatura" href="/zestaw-mysz-i-klawiatura.bhtml">
+							Zestawy mysz i klawiatura
+							</a>
+						</li>
+						<li>
+							<a title="Kierownice" href="/kierownice-pc.bhtml">
+							Kierownice
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria do gier wideo" href="/akcesoria-do-gier-wideo2.bhtml">
+							Akcesoria do gier wideo
+							</a>
+						</li>
+						<li>
+							<a title="Koszulki dla graczy" href="/koszulki-dla-graczy.bhtml">
+								Koszulki dla graczy
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Zabawki i artykuły dla dzieci" href="/zabawki-i-artykuly-dla-dzieci.bhtml">
+						Zabawki i artykuły dla dzieci
+					</a>
+					<ul>
+						<li>
+							<a title="Klocki LEGO" href="/klocki.bhtml">
+								Klocki LEGO
+							</a>
+						</li>
+						<li>
+							<a title="Zabawki interaktywne i zdalnie sterowane" href="/zabawki-zdalnie-sterowane.bhtml">
+								Zabawki interaktywne i zdalnie sterowane
+							</a>
+						</li>
+						<li>
+							<a title="Plecaki szkolne" href="/plecaki-szkolne.bhtml">
+								Plecaki szkolne
+							</a>
+						</li>
+						<li>
+							<a title="Zabawki edukacyjne" href="/zabawki-edukacyjne.bhtml">
+								Zabawki edukacyjne
+							</a>
+						</li>
+						<li>
+							<a title="Modele metalowe" href="/modele-metalowe.bhtml">
+								Modele metalowe
+							</a>
+						</li>
+						<li>
+							<a href="/zabawki-i-artykuly-dla-dzieci.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>							
+					</ul>
+				</li>
+			</ul>
+							<ul class="col gfxBanners">
+<div class="" >
+			<a href="/search,_Electronic-Arts.bhtml?keyword=hardline&searchType=tag&link=188x80" >
+				<img src="/banner/9734105097/188x80.jpg" alt="Battlefield Hardline - sprawdź nowe niższe ceny!"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/search/gry-playstation-4,d10,h1.bhtml?keyword=preorder+ps4+gra&searchType=tag&link=ban-188x80" >
+				<img src="/banner/7198378562/188x80_Gry_przedsprzedaż.jpg" alt="Zamów przed premierą - hity przedsprzedażowe."/>
+			</a>
+</div>
+<div class="" >
+			<a href="/cms/sis-ps.bhtml?link=ban-188x80" >
+				<img src="/banner/5837527592/188x80_sisps.jpg" alt="Wejdź do sklepu PlayStstion"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/cms/sis-microsoft-xbox-lp.bhtml?link=ban-188x80" >
+				<img src="/banner/5797528142/188x80_micr.jpg" alt="Xbox 360 - zobacz nowści i promocje >"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/sluchawki-z-mikrofonem.bhtml?link=ban-188x80" >
+				<img src="/banner/9189368257/188x80_sluchawki_gamingowe.jpg" alt="Zobacz ofertę słuchawek gamingowych"/>
+			</a>
+</div>
+				</ul>
+		</div>
+      <div class="clear"></div>
+      <div>
+         <ul style="width: 100%;padding-left:0px !important;" class="col">
+            <li><a></a></li>
+            <li>
+            <a style="text-align: center;" title="Pokaż wszystkie produkty z kategorii Gry i konsole " href="/gry-i-konsole.bhtml" class="bB0"> Pokaż wszystkie produkty z kategorii Gry i konsole </a>
+            </li>
+         </ul>
+      </div>
+      <div class="clear"></div>
+		<div class="bottomBox">
+			<div class="fleft">
+				Sklepy producentów: 
+					<a href="/cms/sis-ps.bhtml?link=logo-menu"><span class="ps"></span></a>
+					|
+					<a href="/cms/sis-microsoft-xbox-lp.bhtml?link=logo-menu"><span class="sisxbox"></span></a>					
+			</div>
+			<div class="ffri fright none">		
+				<!--<a class="eT_opd" href="/search.bhtml?keyword=outletgrypcn&searchType=tag">Outlet GIER PC, Xbox 360, PlayStation 3</a>		-->	
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="left-bg"></div>
+	<div class="right-bg"></div>
+</div>
+	</li>
+	
+	
+	<li class="fleft menu-btn-wrap " id="menu-1447932">
+	
+		<a class="main-link block" href="/foto-i-kamery.bhtml">
+			<span class="menu-btn" style="width:104px;"><span>Foto i kamery</span></span>
+		</a>
+		<div style="right:-18px;" class="ver2 second-level">
+	<div class="second-level-con">
+		<div class="pR10">
+			<ul class="col">
+				<li>
+					<a title="Aparaty z wymienną optyką" href="/kompakty-z-wymienna-optyka.bhtml">
+						Aparaty z wymienną optyką
+					</a>
+				</li>
+				<li>
+					<a title="Aparaty cyfrowe" href="/aparaty-cyfrowe.bhtml">
+						Aparaty cyfrowe									
+					</a>
+				</li>
+				<li>
+					<a title="Lustrzanki cyfrowe" href="/lustrzanki.bhtml">
+						Lustrzanki cyfrowe									
+					</a>
+				</li>
+				<li>
+					<a title="Kamery cyfrowe" href="/kamery.bhtml">
+						Kamery cyfrowe
+					</a>
+				</li>
+				<li>
+					<a title="Kamery sportowe i akcesoria" href="/kamery-sportowe-i-akcesoria.bhtml">
+						Kamery sportowe i akcesoria
+					</a>
+				</li>
+				<li>
+					<a title="Drony i akcesoria" href="/drony-i-akcesoria.bhtml">
+						Drony i akcesoria
+					</a>
+				</li>
+				<li>
+					<a title="Obiektywy" href="/obiektywy.bhtml">
+						Obiektywy
+					</a>
+				</li>
+				<li>
+					<a title="Lornetki" href="/lornetki.bhtml">
+						Lornetki
+					</a>
+				</li>
+				<li>
+					<a title="Lampy błyskowe" href="/lampy-blyskowe1.bhtml">
+						Lampy błyskowe
+					</a>
+				</li>
+				<li>
+					<a title="Lampy wideo" href="/lampy-wideo1.bhtml">
+						Lampy wideo
+					</a>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a title="Akcesoria do foto i kamer" href="/akcesoria-do-foto-i-kamer.bhtml">
+						Akcesoria do foto i kamer
+					</a>
+					<ul>
+						<li>
+							<a title="Torby do aparatów i kamer" href="/torby.bhtml">
+								Torby do aparatów i kamer
+							</a>
+						</li>
+						<li>
+							<a title="Karty pamięci" href="/karty-pamieci.bhtml">
+								Karty pamięci
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria do kamer sportowych" href="/akcesoria-do-kamer-sportowych1.bhtml">
+								Akcesoria do kamer sportowych
+							</a>
+						</li>
+						<li>
+							<a title="Statywy" href="/statywy.bhtml">
+								Statywy
+							</a>
+						</li>						<li>
+							<a title="Stabilizatory do kamer i aparatów" href="/stabilizatory-do-kamer-i-aparatow.bhtml">
+								Stabilizatory do kamer i aparatów
+							</a>
+						</li>
+						<li>
+							<a title="Filtry do obiektywów" href="/filtry-do-obiektywow.bhtml">
+								Filtry do obiektywów
+							</a>
+						</li>
+						<li>
+							<a title="Oprogramowanie do foto" href="/oprogramowanie,h4:5:6.bhtml">
+								Oprogramowanie do foto
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria do lamp błyskowych" href="/akcesoria-do-lamp-blyskowych1.bhtml">
+								Akcesoria do lamp błyskowych
+							</a>
+						</li>
+						<li>
+							<a title="Cyfrowe ramki do zdjęć" href="/cyfrowe-ramki-do-zdjec.bhtml">
+								Cyfrowe ramki do zdjęć
+							</a>
+						</li>
+						<li>
+							<a href="/akcesoria-do-foto-i-kamer.bhtml" class="more">
+								pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+							<ul class="col gfxBanners">
+<div class="" >
+			<a href="/cms/fuji-warsztaty-zapiszsie.bhtml?link=ban-188x80" >
+				<img src="/banner/9747240617/Warsztaty_Bonecki_188x80.jpg" alt="Zapisz się na warsztaty z Jackiem Boneckim"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/cms/obiektywy-tamron.bhtml?link=ban-188x80" >
+				<img src="/banner/9449270052/188_80_tamron.jpg" alt="Sprawdź super ceny na obiektywy Tamron!"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/search.bhtml?keyword=badpakietgopro&searchType=tag&link=ban-188x80" >
+				<img src="/banner/9637755907/188x80_go5pro.jpg" alt="Zobacz zesawy od GoPro!"/>
+			</a>
+</div>
+<div class="" >
+			<a href="/cms/tamron-torba-1zl.bhtml?link=ban-188x80" >
+				<img src="/banner/9610320642/188x80n.jpg" alt="Kup obiektyw Tamron i odbierz plecak za 1 zł!"/>
+			</a>
+</div>
+				</ul>
+		</div>
+      <div class="clear"></div>
+      <div>
+         <ul style="width: 100%;padding-left:0px !important;" class="col">
+            <li><a></a></li>
+            <li>
+            <a style="text-align: center;" title="Pokaż wszystkie produkty z kategorii Foto i kamery " href="/foto-i-kamery.bhtml" class="bB0"> Pokaż wszystkie produkty z kategorii Foto i kamery </a>
+            </li>
+         </ul>
+      </div>
+      <div class="clear"></div>
+		<div class="bottomBox">
+			<div class="fleft">
+				Sklepy producentów: 
+					<a href="/cms/sis-nikon.bhtml?link=logo-menu"><span class="sisnikon"></span></a>
+					<!--<a href="/cms/sis-canon.bhtml?link=logo-menu"><span class="canon"></span></a>
+					 |
+					<a href="/cms/sony.bhtml?link=logo-menu"><span class="sony"></span></a>-->
+			</div>
+			<div class="ffri fright none">
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="left-bg"></div>
+	<div class="right-bg"></div>
+</div>
+	</li>
+	
+	
+	<li class="fleft menu-btn-wrap " id="menu-145977006">
+	
+		<a class="main-link block" href="/telefony-i-nawigacja-gps.bhtml">
+			<span class="menu-btn" style="width:114px;"><span>Telefony i GPS</span></span>
+		</a>
+		<div style="right:-18px;" class="ver2 second-level">
+	<div class="second-level-con">
+		<div class="pR10">
+			<ul class="col">
+				<li>
+					<a title="Telefony i smartfony" href="/telefony-komorkowe.bhtml">
+						Telefony i smartfony
+					</a>
+				</li>
+				<li>
+					<a title="Tablety multimedialne" href="/tablety2.bhtml?link=tel-menu">
+						Tablety multimedialne
+					</a>
+				</li>
+				<li>
+					<a title="Telefony stacjonarne" href="/telefony-stacjonarne.bhtml">
+						Telefony stacjonarne
+					</a>
+				</li>
+				<li>
+					<a title="Nawigacja samochodowa" href="/nawigacja-samochodowa-gps.bhtml">
+						Nawigacja samochodowa
+					</a>
+				</li>
+				<li>
+					<a title="Mapy GPS" href="/mapy-gps.bhtml">
+						Mapy GPS
+					</a>
+				</li>
+				<li>
+					<a title="Krótkofalówki" href="/krotkofalowki.bhtml">
+						Krótkofalówki
+					</a>
+				</li>
+				<li>
+					<a title="Rejestratory jazdy" href="/rejestratory-jazdy.bhtml">
+						Rejestratory jazdy
+					</a>
+				</li>
+				<li>
+					<a title="Zegarki i produkty sportowe" href="/zegarki.bhtml">
+						Zegarki i produkty sportowe
+					</a>
+					<ul>
+						<li>
+							<a title="Smartwatch" href="/smartwatch.bhtml">
+								Smartwatch
+							</a>
+						</li>
+						
+						<li>
+							<a title="Zegarki sportowe" href="/zegarki-sportowe.bhtml">
+								Zegarki sportowe
+							</a>
+						</li>
+						<li>
+							<a title="Zegarki na wyprawy" href="/zegarki-na-wyprawy.bhtml">
+								Zegarki na wyprawy
+							</a>
+						</li>
+						<li>
+							<a title="Opaski monitorujące" href="/opaski-monitorujace-aktywnosc.bhtml">
+								Opaski monitorujące
+							</a>
+						</li>
+						<li>
+							<a title="Akcesoria do zegarków" href="/akcesoria-do-zegarkow.bhtml">
+								Akcesoria do zegarków
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a title="Akcesoria do telefonów i GPS" href="/akcesoria-do-telefonow-i-gps.bhtml">
+						Akcesoria do telefonów i GPS
+					</a>
+					<ul>
+						<li>
+							<a title="Zestawy słuchawkowe Bluetooth" href="/zestawy-sluchawkowe.bhtml">
+								Zestawy słuchawkowe Bluetooth
+							</a>
+						</li>
+						<li>
+							<a title="Etui do telefonów" href="/etui-do-telefonow.bhtml">
+								Etui do telefonów
+							</a>
+						</li>
+						<li>
+							<a title="Folie ochronne" href="/folie-ochronne.bhtml">
+								Folie ochronne
+							</a>
+						</li>
+						<li>
+							<a title="Karty pamięci" href="/karty-pamieci1.bhtml">
+								Karty pamięci
+							</a>
+						</li>
+						<li>
+							<a title="Słuchawki" href="/sluchawki4.bhtml">
+								Słuchawki
+							</a>
+						</li>
+						<li>
+							<a title="Ładowarki i akumulatory przenośne" href="/ladowarki-akumulatory-przenosne.bhtml">
+								Ładowarki i akumulatory przenośne
+							</a>
+						</li>
+						<li>
+							<a title="Ładowarki sieciowe" href="/ladowarki-sieciowe.bhtml">
+								Ładowarki sieciowe
+							</a>
+						</li>
+						<li>
+							<a title="Ładowarki samochodowe" href="/ladowarki-do-telefonow2.bhtml">
+								Ładowarki samochodowe
+							</a>
+						</li>
+						<li>
+							<a title="Ładowarki iPod/iPhone/iPad" href="/ladowarki-ipod-iphone2.bhtml">
+								Ładowarki iPod/iPhone/iPad
+							</a>
+						</li>
+						<li>
+							<a title="Systemy Audio, AirPlay i Bluetooth" href="/stacje-dokujace-ipod-iphone.bhtml">
+								Systemy Audio, AirPlay i Bluetooth
+							</a>
+						</li>
+						<li>
+							<a title="Głośniki przenośne" href="/glosniki-przenosne.bhtml">
+								Głośniki przenośne
+							</a>
+						</li>
+						<li>
+							<a title="Wyposażenie do telefonów" href="/wyposazenie-do-telefonow.bhtml">
+								Wyposażenie do telefonów
+							</a>
+						</li>
+						<li>
+							<a title="Produkty czyszczące" href="/produkty-czyszczace1,h4:5.bhtml">
+								Produkty czyszczące
+							</a>
+						</li>
+						<li>
+							<a href="/akcesoria-do-telefonow-i-gps.bhtml" class="more">
+							pokaż wszystkie
+							</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+							<ul class="col gfxBanners">
+<div class=""  id="Kup Galaxy S6 32GB i skorzystaj z kodu rabatowego na 300 zł.">
+			<a href="/cms/sklep-samsung-galaxy-s6-kod-300zl.bhtml?link=188x400" >
+				<img src="/banner/9701540877/188x375_fin.png" alt="Kup Galaxy S6 32GB i skorzystaj z kodu rabatowego na 300 zł."/>
+			</a>
+</div>
+				</ul>
+		
+		</div>
+      <div class="clear"></div>
+      <div>
+         <ul style="width: 100%;padding-left:0px !important;" class="col">
+            <li><a></a></li>
+            <li>
+            <a style="text-align: center;" title="Pokaż wszystkie produkty z kategorii Telefony i GPS " href="/telefony-i-nawigacja-gps.bhtml" class="bB0"> Pokaż wszystkie produkty z kategorii Telefony i GPS </a>
+            </li>
+         </ul>
+
+		 
+      </div>
+      <div class="clear"></div>
+		<div class="bottomBox">
+			<div class="fleft" style="white-space:nowrap;">
+					Sklepy producentów:
+				<!--<a href="/cms/sis-apple.bhtml?link=logo-menu"><span class="sisapple"></span></a>
+| -->
+ 				<a href="/cms/peiying.bhtml?link=logo-menu"><span class="peiying"></span></a>
+|
+				<a href="/cms/sis-modecom-your-lifestyle.bhtml?link=logo-menu" class="m_fixmargin"><span class="modecom"></span></a>
+|	
+				<a href="/cms/sis-kruger-matz.bhtml?link=logo-menu"><span class="krugermatz"></span></a>
+					|
+					<a href="/cms/sklep-samsung-strona-glowna.bhtml?link=logo-menu"><span class="sissamsung"></span></a>
+
+
+			</div>
+			<div class="ffri fright none tgps"></div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="left-bg"></div>
+	<div class="right-bg"></div>
+</div>
+	</li>
+	
+	
+	<li class="fleft menu-btn-wrap  last" id="menu-6413252402">
+	
+		<a class="main-link block" href="/sport.bhtml">
+			<span class="menu-btn" style="width:54px;"><span>Sport</span></span>
+		</a>
+		<div style="right:-18px;" class="ver2 second-level">
+	<div style="width:810px" class="second-level-con">
+		<div class="pR10">
+			<ul class="col">
+				<li>
+					<a title="Dla Dzieci" href="/dla-dzieci.bhtml">Dla Dzieci</a>
+					<ul>
+						<li>
+							<a title="Elektroniczne nianie" href="/elektroniczne-nianie.bhtml">Elektroniczne nianie</a>
+						</li>
+						<li>
+							<a title="Foteliki samochodowe" href="/foteliki-samochodowe.bhtml">Foteliki samochodowe</a>
+						</li>
+						<li>
+							<a title="Wózki dziecięce" href="/wozki-dzieciece.bhtml">Wózki dziecięce</a>
+						</li>
+						<li>
+							<a title="Wagi dziecięce" href="/wagi-dzieciece-.bhtml">Wagi dziecięce</a>
+						</li>
+						<li>
+							<a title="Sterylizatory butelek" href="/sterylizatory.bhtml">Sterylizatory butelek</a>
+						</li>
+						<li>
+							<a title="Podgrzewacze do butelek" href="/podgrzewacze-do-butelek.bhtml">Podgrzewacze do butelek</a>
+						</li>
+						<li>
+							<a title="Laktatory" href="/laktatory.bhtml">Laktatory</a>
+						</li>
+						<li>
+							<a title="Łóżeczka dla dzieci" href="/lozeczka-dla-dzieci.bhtml">Łóżeczka dla dzieci</a>
+						</li>
+						<li>
+							<a title="Krzesełka do karmienia" href="/krzeselka-do-karmienia.bhtml">Krzesełka do karmienia</a>
+						</li>
+						<li>
+							<a title="Huśtawki mechaniczne" href="/hustawki-mechaniczne.bhtml">Huśtawki mechaniczne</a>
+						</li>
+						<li>
+							<a title="Leżaki" href="/lezaki.bhtml">Leżaki</a>
+						</li>
+						<li>
+							<a title="Dla niemowląt" href="/dla-niemowlat.bhtml">Dla niemowląt</a>
+						</li>
+						<li>
+							<a title="Zabawki" href="/zabawki-i-artykuly-dla-dzieci.bhtml">Zabawki</a>
+						</li>
+						<li>
+							<a title="Rowerki dziecięce" href="/rowerki-dzieciece.bhtml">Rowerki dziecięce</a>
+						</li>
+						<li>
+							<a title="Smoczki i butelki" href="/kubki-i-butelki.bhtml">Smoczki i butelki</a>
+						</li>
+						<li>
+							<a title="Plecaki szkolne" href="/plecaki-szkolne-1.bhtml">Plecaki szkolne</a>
+						</li>
+						<li>
+							<a href="/dla-dzieci.bhtml" class="more">
+								pokaż wszystkie</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a title="Kuchnia" href="/do-kuchni.bhtml">Kuchnia</a>
+					<ul>
+						<li>
+							<a title="Garnki" href="/garnki.bhtml">Garnki</a>
+						</li>
+						<li>
+							<a title="Patelnie" href="/patelnie.bhtml">Patelnie</a>
+						</li>
+						<li>
+							<a title="Noże kuchenne" href="/noze-kuchenne1.bhtml">Noże kuchenne</a>
+						</li>
+						<li>
+							<a title="Sztućce" href="/sztucce1.bhtml">Sztućce</a>
+						</li>
+						<li>
+							<a title="Przybory kuchenne" href="/przybory-kuchenne.bhtml">Przybory kuchenne</a>
+						</li>
+						<li>
+							<a title="Deski do krojenia" href="/deski-do-krojenia1.bhtml">Deski do krojenia</a>
+						</li>
+						<li>
+							<a title="Chlebaki" href="/chlebaki.bhtml">Chlebaki</a>
+						</li>
+						<li>
+							<a title="Kawy i herbaty" href="/kawy.bhtml">Kawy i herbaty</a>
+						</li>
+						<li>
+							<a href="/do-kuchni.bhtml" class="more">pokaż wszystkie</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Sport i turystyka" href="/sport.bhtml">Sport i turystyka</a>
+					<ul>
+						<li>
+							<a title="Zegarki sportowe" href="/zegarki-sportowe1.bhtml">Zegarki sportowe</a>
+						</li>
+						<li>
+							<a title="Kamery sportowe" href="/kamery-sportowe1.bhtml">Kamery sportowe</a>
+						</li>
+						<li>
+							<a title="Nawigacja sportowa i turystyczna" href="/nawigacja-sportowa-i-turystyczna1.bhtml">Nawigacja sportowa i turystyczna</a>
+						</li>
+						<li>
+							<a href="/sport.bhtml" class="more">pokaż wszystkie</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="col">
+				<li>
+					<a title="Dom i ogród" href="/dzialka-i-ogrod.bhtml">Dom i ogród</a>
+					<ul>
+						<li>
+							<a title="Myjki wysokociśnieniowe" href="/myjki-wysokocisnieniowe-1.bhtml">Myjki wysokociśnieniowe</a>
+						</li>
+						<li>
+							<a title="Kuchenki nastawne" href="/kuchenki-nastawne-i-turystyczne.bhtml">Kuchenki nastawne</a>
+						</li>
+						<li>
+							<a title="Akcesoria do myjek wysokociśnieniowych" href="/akcesoria-do-myjek-wysokocisnieniowych.bhtml">Akcesoria do myjek wysokociśnieniowych</a>
+						</li>
+						<li>
+							<a title="Grzejniki" href="/grzejniki-2.bhtml">Grzejniki</a>
+						</li>
+						<li>
+							<a title="Termowentylatory" href="/termowentylatory-2.bhtml">Termowentylatory</a>
+						</li>
+						<li>
+							<a title="Klimatyzatory przenośne" href="/klimatyzatory-przenosne-1.bhtml">Klimatyzatory przenośne</a>
+						</li>
+						<li>
+							<a title="Oczyszczacze powietrza" href="/oczyszczacze-powietrza.bhtml">Oczyszczacze powietrza</a>
+						</li>
+						<li>
+							<a title="Nawilżacze powietrza" href="/nawilzacze-1.bhtml">Nawilżacze powietrza</a>
+						</li>
+						<li>
+							<a href="/dzialka-i-ogrod.bhtml" class="more">pokaż wszystkie</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a title="Usługi" href="#">Usługi</a>
+					<ul>
+						<li>
+							<a href="/cms/przedluz-gwarancje.bhtml" class="eT_nl" title="Przedłuż Gwarancję &reg;">Przedłuż Gwarancję &reg;</a>
+						</li>
+						<li>
+							<a href="/cms/bezpieczenstwo-sprzetu.bhtml" class="eT_nl" title="Pakiety Ochronne">Pakiety Ochronne</a>
+						</li>
+						<li>
+							<a href="/cms/ubezpieczenia_pakiet-pomoc.bhtml" class="eT_nl" title="Pakiet Pomoc">Pakiet Pomoc</a>
+						</li>
+						<li>
+							<a href="/artykuly.bhtml" class="eT_nl" title="Porady EURO">Porady EURO</a>
+						</li>
+						<li>
+							<a href="/cms/dostawa-cennik-uslug.bhtml" class="eT_nl" title="Usługi">Usługi</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+					</div>
+		<div class="clear"></div>
+		<div></div>
+		<div class="clear"></div>
+		<div class="bottomBox">
+			<div class="fleft"></div>
+			<div class="fright"></div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="left-bg"></div>
+	<div class="right-bg"></div>
+</div>
+	</li>
+	
+	
+	
+	<li id="lastItemMenu" style="width:0px;display:none;height:0px;" class="fright yellow">
+		<a href="/marki.bhtml">
+			<span><span>Marki</span></span>
+		</a>
+	</li>
+	<li class="clear"></li>
+</ul>
+<script type="text/javascript">
+	addAndRefreshCart();
+</script>
+<style type="text/css">
+	#emptyBorder{background: url(//f00.esfr.pl/images/www/menu_bg.png) 0 -76px;width:5px;float:right;height:35px;}
+	#menu-14597700ii .second-level{left:556px !important;width: 358px !important;}
+	#menu-14597700ii .second-level .right-bg{width:198px !important;}
+	#menu-14597700ii .second-level .left-bg{width:199px !important;}
+	#menu-14597700ii span.menu-btn{width: 60px;}
+	#menu-14597700ii span.last-in-tree{width: 150px !important;}
+	#menu-14597700ii .second-level-con a{width:150px !important;}
+	#main-menu #menu-6413252402.menu-btn-wrap a span.menu-btn{width: 66px;padding:0px 7px;}
+	#main-menu #menu-6413252402.menu-btn-wrap-show a span.menu-btn{padding:0px 4px;}
+	#lastItemMenu{display:none;}
+	.col.gfxBanners div a{display:block;width:188px;height:80px;margin:0px 0px 2px 0px;padding:0px;}
+	
+	.bottomBox .fleft{margin:5px 0px 10px 0px;}
+	.bottomBox .fright{margin-bottom: 10px;margin-top:5px;}
+	.ver2 .bottomBox div.tgps{margin:0px;}
+	.bottomBox .fleft .il{display:inline;}
+	.bottomBox .fleft a span{opacity:0.8;filter:alpha(opacity=80);margin: 0px 5px;vertical-align:0px;background-image:url('//f00.esfr.pl/upload_module/graphics/marki/marki_sprite.png?d=140916');display:inline-block;}
+	.bottomBox .fleft a.m_fixmargin span{margin:0px 0px 0px 5px;}
+	.bottomBox .fleft a:hover span{opacity:1.0;filter:alpha(opacity=100);}
+	.bottomBox .fleft a span.lg{width:35px;height:16px;vertical-align:-4px;background-position: 0px -55px;}
+	.bottomBox .fleft a span.peiying{width:48px;height:10px;vertical-align:-2px;background-position: 0px -16px;}
+	.bottomBox .fleft a span.sony{width:45px;height:8px;background-position: 0px 0px}
+	.bottomBox .fleft a span.krugermatz{width:76px;height:13px;vertical-align:-4px;background-position: 0px -71px;}
+	.bottomBox .fleft a span.aeg{width:30px;height:9px;background-position: 0px -95px;}
+	.bottomBox .fleft a span.canon{width:45px;height:9px;background-position: 0px -85px;}
+	.bottomBox .fleft a span.microsoft{width:55px;height:9px;background-position: 0px -45px;}
+	.bottomBox .fleft a span.sisxbox{background-position: 0 -223px;height: 10px;vertical-align: -2px;width: 60px;}
+	.bottomBox .fleft a span.sisremington {background-position: 0 -251px;height: 12px;vertical-align: -2px;width: 68px;}
+	.bottomBox .fleft a span.modecom{width:77px;height:7px;background-position: 0px -37px;}
+	.bottomBox .fleft a span.tomtom{width:79px;height:17px;vertical-align:-5px;background-position: 0px -105px;}
+	.bottomBox .fleft a span.rowenta{width:71px;height:6px; background-position: 0px -9px;}
+	.bottomBox .fleft a span.oralb{width:35px;height:9px;vertical-align:-1px;background-position: 0px -27px;}
+	.bottomBox .fleft a span.intel{width:26px;height:18px;vertical-align:-5px;background-position: 0px -233px;}
+	.bottomBox .fleft a span.philips {background-position: 0 -196px;height: 9px;vertical-align: -1px;width: 48px;}
+	.bottomBox .fleft a span.bosch{width:56px;height:14px;vertical-align:-3px;background-position: 0px -133px;}
+	.bottomBox .fleft a span.sisapple{background-position: 0 -169px;height: 13px;vertical-align: -3px;width: 36px;}
+	.bottomBox .fleft a span.ps {background-position: 0 -182px;height: 14px;vertical-align: -3px;width: 80px;}
+	.bottomBox .fleft a span.kenwood {background-position: 0 -159px;height: 10px;vertical-align: 0;width: 57px;}
+	.bottomBox .fleft a span.delonghi {background-position: 0 -206px;height: 17px;vertical-align: -4px;width: 50px;}
+	.bottomBox .fleft a span.wd {background-position: 0 -264px;height: 15px;vertical-align: -5px;width: 30px;}
+	.bottomBox .fleft a span.sissamsung {width: 71px;height: 14px;vertical-align: -4px;background-position: 0px -280px;}
+	.bottomBox .fleft a span.sisacer {width: 46px;height: 14px;vertical-align: -4px;background-position: 0px -293px;}
+	.bottomBox .fleft a span.sisrussellhobbs {width: 70px;height: 15px;vertical-align: -4px;background-position: 0px -307px;}
+	.bottomBox .fleft a span.sisnikon {width: 47px;height: 13px;vertical-align: -2px;background-position: 0px -322px;}
+</style>
+<script type="text/javascript">
+
+/* ie fix */
+if(!String.prototype.trim) {  
+	String.prototype.trim = function () {  
+		return this.replace(/^\s+|\s+$/g,'');  
+	};
+}
+
+function uslugi_new() {
+	jQuery('#menu > .last').removeClass('last');
+	jQuery('#lastItemMenu').remove();
+	jQuery('#menu > li.clear').before(
+		'<li id="menu-14597700ii" class="fleft menu-btn-wrap last">' +
+			'<a href="javascript:void(0);" class="main-link block">' +
+				'<span class="menu-btn">' +
+					'<span style="padding-left:5px;">Usługi</span>' +
+				'</span>' +
+			'</a>' +
+			'<div class="ver2 second-level">' +
+				'<div class="second-level-con">' +
+					'<div class="pR10">' +
+						'<ul class="col" style="width:160px !important">' +
+							'<li>' +
+								'<a href="/cms/przedluz-gwarancje.bhtml" class="eT_nl" title="Przedłuż Gwarancję &reg;">Przedłuż Gwarancję &reg;</a>' +
+							'</li>' +
+							'<li>' +
+								'<a href="/cms/ubezpieczenia-pakiet-bezplatne-naprawy.bhtml" class="eT_nl" title="Pakiet Bezpłatne Naprawy">Pakiet Bezpłatne Naprawy</a>' +
+							'</li>' +
+							'<li>' +
+								'<a href="/cms/bezpieczenstwo-sprzetu.bhtml" class="eT_nl" title="Pakiety Ochronne">Pakiety Ochronne</a>' +
+							'</li>' +
+						'</ul>' +
+						'<ul class="col" style="width:160px !important">' +
+							'<li>' +
+								'<a href="/cms/ubezpieczenia_pakiet-pomoc.bhtml" class="eT_nl" title="Pakiet Pomoc">Pakiet Pomoc</a>' +
+							'</li>' +
+							'<li>' +
+								'<a href="/artykuly.bhtml" class="eT_nl" title="Porady EURO">Porady EURO</a>' +
+							'</li>' +
+						'</ul>' +
+					'</div>' +
+					'<div>' +
+						'<ul class="col" style="width: 100%;padding-left:0px !important;">' +
+							'<li></li>' +
+						'</ul>' +
+					'</div>' +
+					'<div class="clear"></div>' +
+					'<div class="bottomBox">' +
+						'<div class="fleft">' +
+						'</div>' +
+						'<div class="ffri fright none">' +
+						'</div>' +
+						'<div class="clear"></div>' +
+					'</div>' +
+				'</div>' +
+				'<div class="clear"></div>' +
+				'<div class="left-bg"></div>' +
+				'<div class="right-bg"></div>' +
+			'</div>' +
+		'</li>' +
+		'<li id="emptyBorder"></li>'
+	);
+}
+
+function menu_more_el(){
+	jQuery('#menu > .last').removeClass('last');
+	jQuery('#lastItemMenu').remove();
+	jQuery('#menu li.menu-btn-wrap:last').addClass('last').after('<li id="emptyBorder"></li>');
+	jQuery('#menu li.menu-btn-wrap:last').find('a.main-link .menu-btn span').text('Więcej');
+	jQuery('#menu li.menu-btn-wrap:last').find('a.main-link').attr('href','javascript:void(0)');
+}
+
+	var menuevents = {
+		'rodzaj': function(l){/* {{{ */
+			if (l.hasClass('main-link'))             return 'main'
+			if (l.hasClass('img'))                   return 'img'
+			if (l.hasClass('more'))                  return 'wiecej'
+			if (l.parent().parent().hasClass('col')) return 'blue'
+			if (l.parent().hasClass('fleft'))        return 'marki'
+			if (l.parent().hasClass('fright'))       return 'red'
+			return 'white'
+		},/* }}} */
+		'rodzaj_stare': function(l){ /* {{{ */
+			return (l.hasClass('main-link')) ? 'main' : 'white';
+		},/* }}} */
+		'hoover': function(e) {/* {{{ */
+			// e     : funkcja logujaca
+			jQuery(function(){
+					window.czas_rozwiniecia = [];
+					jQuery('#menu > li.menu-btn-wrap').bind('mouseenter.nowe_menu', function(){
+						window.czas_rozwiniecia.push((new Date).getTime())
+						});
+					jQuery('#menu > li.menu-btn-wrap').bind('mouseleave.nowe_menu', function(){
+						var params = [jQuery(this).find('a > span > span').html().trim()||'pusty', 
+													'mouseout', 
+													'', 
+													'', 
+													'', 
+													(new Date).getTime()-window.czas_rozwiniecia.pop(), 
+													pageType || 'pusty', 
+													document.location+'' ];
+						e(params);
+						});
+					});
+		},/* }}} */
+		'click': function(e, rodzaj) {/* {{{ */
+			// rodzaj: zwraca txtowe id elementu na ktorym zaszedl klik
+			// e     : funkcja logujaca
+			jQuery(function(){
+
+					var todo = jQuery.cookie('menu_todo');
+					if (todo && todo.length >0) {
+					e(eval(todo));
+					jQuery.cookie('menu_todo', null);
+					}
+
+					jQuery('#menu > li.menu-btn-wrap a').click(function() {
+						jQuery('#menu > li.menu-btn-wrap').unbind('mouseleave.nowe_menu');
+						var l = jQuery(this);
+						var params = [ l.parents('li.menu-btn-wrap').find('a > span > span').html().trim()||'pusty', 
+														'click', 
+														rodzaj(l), 
+														l.find('img').length>0 && l.find('img').attr('alt').trim() || l.text().trim().replace(/\r\n|\r|\n/g,' ') ||'pusty', 
+														l.attr('href').trim()||'pusty', 
+														(typeof window.czas_rozwiniecia !== 'undefined') ? ((new Date).getTime()-window.czas_rozwiniecia.pop()) : 0, 
+														pageType || 'pusty', 
+														document.location+'' ];
+						//console.log(params+'');
+						// zapisujemy klikniecie, nie zdarzymy wyslac do logu przed
+						// przeladowaniem strony
+						var p = '[';
+						for (var i in params)
+							p+='"'+params[i]+'",';
+						jQuery.cookie('menu_todo', p.substr(0, p.length-1)+']',{path:'/'});
+					});
+			});
+		}/* }}} */
+	}
+	
+	/* wymuszamy, by stare menu lub menu z prezentami bylo jeszcze raz wylosowane jako nowe. */
+	if(test.getVar('nowe-menu2')!='NA' && test.getVar('nowe-menu2')!='NA-det'){
+		test.delVar('nowe-menu2');
+	}
+	
+	var nowe_menu = new _AB_({ /* {{{ */
+		'name'    : 'nowe-menu2',
+		'manual' : 1,
+		'wariant' : {
+			'NA' : {
+				'weight': 95,
+				'Event' : function(e) { 
+					menu_more_el();
+					jQuery('#menu >li > div.second-level li > a').css('font-size','12px').css('line-height','18px');
+					startMenu(); 
+					menuevents.click(e, menuevents.rodzaj); 
+				}
+			},
+			'NA-det' : {
+				'weight': 5,
+				'Event' : function(e) { 
+					menu_more_el();
+					jQuery('#menu >li > div.second-level li > a').css('font-size','12px').css('line-height','18px');
+					startMenu(); 
+					menuevents.click(e, menuevents.rodzaj); 
+					menuevents.hoover(e); 
+				}
+			}
+		}
+	}); /* }}} */
+		
+	jQuery(window).load(function(){
+		nowe_menu.LogPrzydzial();
+	});
+	
+</script>
+
+
+	
+
+
+
+	</div>
+</div>
+
+		
+
+<div class="content">
+	<div class="clear"></div>
+	<div id="search-account">
+		<div id="search-row">
+			
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="#" onsubmit="return false" id="searcher" method="get">
+	<div id="search-products" class="fleft">
+		<div class="search-products-left"></div>
+		<div class="search-products-center">
+			<div class="h2 sh3">ZNAJDŹ</div>
+			<div class="searcher-wrap fleft">
+				<input type="text" id="keyword" name="keyword"/>
+			</div>
+		</div>
+	</div>
+	<div id="search-groups" class="fleft">
+		<span class="fleft sh3">W</span>
+		<select id="sel-cat" name="nodeid">
+			<option value="0">we wszystkich produktach</option>
+			
+				
+
+
+<option value="rtv"  >
+
+Telewizory i RTV</option>
+
+
+
+			
+				
+
+
+<option value="agd"  >
+
+AGD</option>
+
+
+
+			
+				
+
+
+<option value="agd-do-zabudowy"  >
+
+AGD do zabudowy</option>
+
+
+
+			
+				
+
+
+<option value="agd-male"  >
+
+AGD małe</option>
+
+
+
+			
+				
+
+
+<option value="komputery"  >
+
+Komputery</option>
+
+
+
+			
+				
+
+
+<option value="gry-i-konsole"  >
+
+Gry i konsole</option>
+
+
+
+			
+				
+
+
+<option value="foto-i-kamery"  >
+
+Foto i kamery</option>
+
+
+
+			
+				
+
+
+<option value="akcesoria"  >
+
+Akcesoria</option>
+
+
+
+			
+				
+
+
+<option value="telefony-i-nawigacja-gps"  >
+
+Telefony i GPS</option>
+
+
+
+			
+				
+
+
+<option value="sport"  >
+
+Sport</option>
+
+
+
+			
+				
+
+
+<option value="turystyka"  >
+
+Turystyka</option>
+
+
+
+			
+		</select>
+		<script type="text/javascript">
+			if($.browser.msie && $.browser.version=='6.0'){
+				$('#sel-cat option').each(function(){
+					$(this).text($(this).text().replace('--',' ').replace('--',' '));
+				});
+			}else{
+				$('#sel-cat').selectbox();
+			}
+		</script>
+		<div class="fleft">
+			<a href="javascript:void(0);" class="searcher" onclick="searcher();return false;"></a>
+		</div>
+	</div>
+</form>
+
+
+
+
+	
+
+
+
+		</div>
+		<div id="account">
+			<div id="top-login">
+			
+				<input type="hidden" id="userEmail" value=""/>
+				<input type="hidden" id="userName" value=""/>
+				
+				
+				
+				<span id="accountLogout" style="display:none;" class="log sh3">
+					<a href="/konto-wyloguj.bhtml">(wyloguj)</a>
+				</span>
+				
+				<span id="accountLogin" style="display:none;" class="log"><a class="sh3" href="/customer-account.bhtml">Zaloguj</a></span>
+				
+			</div>
+
+			
+			<div id="yourAccountLogged" style="display:none;" class="your-account">
+				<div class="none" id="news_list"></div>
+				<a title="Twoje konto" class="customer-account" href="/customer-account.bhtml">
+					Twoje konto
+				</a>
+			</div>
+			
+			<div id="yourAccountNotLogged" style="display:none;" class="your-account">
+				<a title="Twoje konto" class="customer-account" href="/customer-account.bhtml">
+					Twoje konto
+				</a>
+			</div>
+
+			<div class="search-products-right"></div>
+		</div>
+		<div class="clear h0"></div>
+		<div class="clear h0"></div>
+	</div>
+</div>
+
+		
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content">
+	<div id="nav-path">
+		<div xmlns:v="http://rdf.data-vocabulary.org/#">
+			<span class="bold">Jesteś tutaj:</span>
+<span typeof="v:Breadcrumb">
+   <a href="/" rel="v:url" property="v:title">Sklep RTV EURO AGD</a>
+</span>
+			
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+	
+
+
+
+		<div class="content">
+		
+			
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div class="mainPageTopBaner">
+		<div id="mainPageTopBanerL" class="fleft">
+			<div>
+				
+					
+						
+						
+							<a title="Wentylatory, cyrkulatory, klimatyzatory"  href="http://www.euro.com.pl/cms/wentylatory-uff-jak-goraco.bhtml?link=ban-250x100"><img src="banner/9720537712/250x100_na-gl_wentylacja.jpg" alt="Wentylatory, cyrkulatory, klimatyzatory"/></a>
+						
+					
+				
+					
+						
+						
+							<a title="Kup już teraz!"  href="http://www.euro.com.pl/search,d3.bhtml?keyword=gwiwiedzminpremieramaj&searchType=tag&link=ban-250x100sg"><img src="banner/9587227542/250x100_sg.jpg" alt="Kup już teraz!"/></a>
+						
+					
+				
+					
+						
+						
+							<a title="Xbox One. Zamów już dziś z grami! Zobacz więcej >>" rel="nofollow" href="http://www.euro.com.pl/xbox-one.bhtml?link=ban-250x100"><img src="banner/3563191370/250x100_naxbox.png" alt="Xbox One. Zamów już dziś z grami! Zobacz więcej >>"/></a>
+						
+					
+				
+			</div>
+			<span class="gL"></span>
+			<span class="gR"></span>
+			<span class="dL"></span>
+			<span class="dR"></span>					
+		</div>
+		<div id="mainPageTopBanerR" class="fright">
+			<div id="mainPageRotator">
+				<div id="bannerView" class="load">
+					
+						
+							
+							
+								<a class="banner-item i1 banner-img load"  href="http://www.euro.com.pl/gazetka/gazetka-promocyjna.bhtml?link=naglowek#content-1c&link=rotator" ></a>
+							
+						
+					
+						
+							
+							
+								<a class="banner-item i2 banner-img load"  href="http://www.euro.com.pl/cms/nagroda-koniec-szkoly.bhtml?link=rotator" ></a>
+							
+						
+					
+						
+							
+							
+								<a class="banner-item i3 banner-img load"  href="http://www.euro.com.pl/cms/truskawkowe-szalenstwo.bhtml?link=rotator" ></a>
+							
+						
+					
+						
+							
+							
+								<a class="banner-item i4 banner-img load"  href="http://www.euro.com.pl/laptopy-i-netbooki/dell-inspiron-14-3451-n2840-2gb-500gb-w8-1-office-365.bhtml?link=rotator" ></a>
+							
+						
+					
+						
+							
+							
+								<a class="banner-item i5 banner-img load"  href="http://www.euro.com.pl/cms/telewizory-na-mistrzostwa.bhtml?link=rotator" ></a>
+							
+						
+					
+						
+							
+							
+								<a class="banner-item i6 banner-img load"  href="http://www.euro.com.pl/cms/asus-zenfone2.bhtml?link=rotator" ></a>
+							
+						
+					
+						
+							
+							
+								<a class="banner-item i7 banner-img load"  href="http://www.euro.com.pl/cms/wentylatory-uff-jak-goraco.bhtml?link=rotator" ></a>
+							
+						
+					
+						
+							
+							
+								<a class="banner-item i8 banner-img load"  href="http://www.euro.com.pl/cms/nawiguj-w-strone-lata2015.bhtml?link=rotator" ></a>
+							
+						
+					
+					<span class="span"></span>
+				</div>
+				<div id="bannerList" class="count8">
+					
+						
+							
+							
+								<a class="i1 load" href="http://www.euro.com.pl/gazetka/gazetka-promocyjna.bhtml?link=naglowek#content-1c&link=rotator" >
+									<span class="span"></span>
+									<span class="layer"></span>
+								</a>
+							
+						
+					
+						
+							
+							
+								<a class="i2 load" href="http://www.euro.com.pl/cms/nagroda-koniec-szkoly.bhtml?link=rotator" >
+									<span class="span"></span>
+									<span class="layer"></span>
+								</a>
+							
+						
+					
+						
+							
+							
+								<a class="i3 load" href="http://www.euro.com.pl/cms/truskawkowe-szalenstwo.bhtml?link=rotator" >
+									<span class="span"></span>
+									<span class="layer"></span>
+								</a>
+							
+						
+					
+						
+							
+							
+								<a class="i4 load" href="http://www.euro.com.pl/laptopy-i-netbooki/dell-inspiron-14-3451-n2840-2gb-500gb-w8-1-office-365.bhtml?link=rotator" >
+									<span class="span"></span>
+									<span class="layer"></span>
+								</a>
+							
+						
+					
+						
+							
+							
+								<a class="i5 load" href="http://www.euro.com.pl/cms/telewizory-na-mistrzostwa.bhtml?link=rotator" >
+									<span class="span"></span>
+									<span class="layer"></span>
+								</a>
+							
+						
+					
+						
+							
+							
+								<a class="i6 load" href="http://www.euro.com.pl/cms/asus-zenfone2.bhtml?link=rotator" >
+									<span class="span"></span>
+									<span class="layer"></span>
+								</a>
+							
+						
+					
+						
+							
+							
+								<a class="i7 load" href="http://www.euro.com.pl/cms/wentylatory-uff-jak-goraco.bhtml?link=rotator" >
+									<span class="span"></span>
+									<span class="layer"></span>
+								</a>
+							
+						
+					
+						
+							
+							
+								<a class="i8 load" href="http://www.euro.com.pl/cms/nawiguj-w-strone-lata2015.bhtml?link=rotator" >
+									<span class="span"></span>
+									<span class="layer"></span>
+								</a>
+							
+						
+					
+				</div>
+			</div>
+		</div>
+		
+
+		<script type="text/javascript">
+			var mainPageBanners={
+					delay:9000,
+					count:8,
+					banners:[
+							
+								
+									
+									
+										{
+											type:"image",
+											photo:"banner/9739323797/rotator-678x241-cenomania.png",
+											icon:"banner/9739323797/rotator-120x40-cenomania.png"
+										}
+									
+								
+								,
+							
+								
+									
+									
+										{
+											type:"image",
+											photo:"banner/9747874327/678x241_odlotowa_promocja.jpg",
+											icon:"banner/9747874327/120x40_odlotowa_promocja.jpg"
+										}
+									
+								
+								,
+							
+								
+									
+									
+										{
+											type:"image",
+											photo:"banner/9741631947/678x241_truskawki.png",
+											icon:"banner/9741631947/120x40_truskawki.png"
+										}
+									
+								
+								,
+							
+								
+									
+									
+										{
+											type:"image",
+											photo:"banner/9686003647/678x241_Dell_600zl.jpg",
+											icon:"banner/9686003647/120x40_dell_600zl.jpg"
+										}
+									
+								
+								,
+							
+								
+									
+									
+										{
+											type:"image",
+											photo:"banner/9739984527/678x241_football_lp_3.jpg",
+											icon:"banner/9739984527/120x40_football.jpg"
+										}
+									
+								
+								,
+							
+								
+									
+									
+										{
+											type:"image",
+											photo:"banner/9734231622/Euro_678x241-fin.jpg",
+											icon:"banner/9734231622/Euro_miniatura_120x40.jpg"
+										}
+									
+								
+								,
+							
+								
+									
+									
+										{
+											type:"image",
+											photo:"banner/9679778112/678x241_wentylacja.jpg",
+											icon:"banner/9679778112/120x40_wentylacja.jpg"
+										}
+									
+								
+								,
+							
+								
+									
+									
+										{
+											type:"image",
+											photo:"banner/9486442997/678x241_nawiguj.jpg",
+											icon:"banner/9486442997/120x40_nawiguj.jpg"
+										}
+									
+								
+								
+							
+					],
+					lowQuality:(lowQuality?true:false)
+			}
+			var mainPageBaner=new MainPageBaner(mainPageBanners);
+		</script>
+	</div>
+
+
+	
+
+
+
+			
+			<div id="left-column">
+			</div>
+			<div id="empty-main-page-recommendations"></div>
+			
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+		
+		
+	
+
+
+	
+
+
+
+			
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	<div id="articleContent" style="height:784px;">
+		<script type="text/javascript">
+			var blockSize=7;
+		</script>
+		
+		<div class="box " id="artBox1">
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="artHeader">
+			<div class="artl"><div class="artr">
+				<h3 class="f14 sh1">Promocje tygodnia</h3>
+				
+					<a href="javascript:void(0)" style="display:none;" class="artScroll roll1"><span class="rollin"></span></a>
+					<a href="javascript:void(0)" class="artScroll roll2"><span class="rollout"></span></a>
+				
+			</div></div>
+		</div>
+		<div class="artContent">
+			<table class="artTop" cellpadding="0" cellspacing="0">
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox first ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Okazja Dnia!" href="/cms/okazja-dnia.bhtml?link=prod">
+								<img alt="Okazja Dnia!" src="http://f00.esfr.pl/foto/article-photos/7769186362/80x80_od.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Okazja Dnia!" href="/cms/okazja-dnia.bhtml?link=prod">Okazja Dnia!</a></h2>
+							<div class="text"><b>Słuchawki Panasonic<br />
+</b><span style="color: rgb(237, 28, 36);"><strong>- dziś 25% taniej!</strong></span><br /></div>
+							<a title="Okazja Dnia!" href="/cms/okazja-dnia.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox first bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Kup wybrany telewizor LG" href="/cms/lg-telewizorylg.bhtml?link=logo">
+								<img alt="Kup wybrany telewizor LG" src="http://f01.esfr.pl/foto/article-photos/9686410397/80x80_pokaz_pazur.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Kup wybrany telewizor LG" href="/cms/lg-telewizorylg.bhtml?link=logo">Kup wybrany telewizor LG</a></h2>
+							<div class="text">W zestawie ze smartfonem za <strong>0 zł</strong>!<br /></div>
+							<a title="Kup wybrany telewizor LG" href="/cms/lg-telewizorylg.bhtml?link=logo" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Super zestaw w super cenie" href="/nawigacja-samochodowa-gps/garmin-n-vi-2589lm_1.bhtml?link=boxSG">
+								<img alt="Super zestaw w super cenie" src="http://f01.esfr.pl/foto/article-photos/9770300357/80x80_garmin.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Super zestaw w super cenie" href="/nawigacja-samochodowa-gps/garmin-n-vi-2589lm_1.bhtml?link=boxSG">Super zestaw w super cenie</a></h2>
+							<div class="text">Nawigacja Garmin N&uuml;vi 2589LM + ładowarka + etui.<br /></div>
+							<a title="Super zestaw w super cenie" href="/nawigacja-samochodowa-gps/garmin-n-vi-2589lm_1.bhtml?link=boxSG" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Generator pary Tefal + deska do prasowania" href="/cms/tefal_generator_deska.bhtml?link=prod">
+								<img alt="Generator pary Tefal + deska do prasowania" src="http://f01.esfr.pl/foto/article-photos/9562586712/80x80_zelazka_tef.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Generator pary Tefal + deska do prasowania" href="/cms/tefal_generator_deska.bhtml?link=prod">Generator pary Tefal + deska do prasowania</a></h2>
+							<div class="text">W zestawie 150 zł taniej!<br />
+<br /></div>
+							<a title="Generator pary Tefal + deska do prasowania" href="/cms/tefal_generator_deska.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Generatory pary Tefal" href="/cms/tefal-satysfakcja-gwarantowana.bhtml?link=prodsg">
+								<img alt="Generatory pary Tefal" src="http://f00.esfr.pl/foto/article-photos/9692304712/euro_80x80.PNG" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Generatory pary Tefal" href="/cms/tefal-satysfakcja-gwarantowana.bhtml?link=prodsg">Generatory pary Tefal</a></h2>
+							<div class="text">Satysfakcja gwarantowana albo zwrot pieniędzy <br /></div>
+							<a title="Generatory pary Tefal" href="/cms/tefal-satysfakcja-gwarantowana.bhtml?link=prodsg" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Smeg -10%" href="/search.bhtml?keyword=josmegmaj&amp;searchType=tag&amp;link=prod">
+								<img alt="Smeg -10%" src="http://f00.esfr.pl/foto/article-photos/9609775427/80x80_smeg.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Smeg -10%" href="/search.bhtml?keyword=josmegmaj&amp;searchType=tag&amp;link=prod">Smeg -10%</a></h2>
+							<div class="text">Lod&oacute;wki nawet 1000 zł taniej!<br /></div>
+							<a title="Smeg -10%" href="/search.bhtml?keyword=josmegmaj&amp;searchType=tag&amp;link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Kup nawigację TomTom objętą promocją" href="/cms/tomtom-cashback.bhtml?link=prod">
+								<img alt="Kup nawigacj&#281; TomTom obj&#281;t&#261; promocj&#261;" src="http://f01.esfr.pl/foto/article-photos/9679272187/euro-80x80.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Kup nawigację TomTom objętą promocją" href="/cms/tomtom-cashback.bhtml?link=prod">Kup nawigację TomTom objętą promocją</a></h2>
+							<div class="text">Otrzymasz zwrot <span style="color: rgb(237, 28, 36);"><strong>do 150 zł</strong></span>.<br /></div>
+							<a title="Kup nawigację TomTom objętą promocją" href="/cms/tomtom-cashback.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Generatory pary Philips" href="/cms/zelazka-systemowe-philips.bhtml?link=prod">
+								<img alt="Generatory pary Philips" src="http://f01.esfr.pl/foto/article-photos/9319077857/80x80-euro.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Generatory pary Philips" href="/cms/zelazka-systemowe-philips.bhtml?link=prod">Generatory pary Philips</a></h2>
+							<div class="text">Satysfakcja gwarantowana i filtr IronCare gratis!<br /></div>
+							<a title="Generatory pary Philips" href="/cms/zelazka-systemowe-philips.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Tylko do 20.06 kupując wybrany telewizor" href="/cms/telewizory-na-mistrzostwa.bhtml?link=prod">
+								<img alt="Tylko do 20.06 kupuj&#261;c wybrany telewizor" src="http://f01.esfr.pl/foto/article-photos/9740415707/80x80_football.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Tylko do 20.06 kupując wybrany telewizor" href="/cms/telewizory-na-mistrzostwa.bhtml?link=prod">Tylko do 20.06 kupując wybrany telewizor</a></h2>
+							<div class="text">Dostaniesz dysk twardy WD do nagrywania telewizji!<br /></div>
+							<a title="Tylko do 20.06 kupując wybrany telewizor" href="/cms/telewizory-na-mistrzostwa.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="100 zł taniej!" href="/search.bhtml?keyword=jolduravitkwi&amp;searchType=tag&amp;link=prod">
+								<img alt="100 z&#322; taniej!" src="http://f00.esfr.pl/foto/article-photos/9396942382/80x80_duravit.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="100 zł taniej!" href="/search.bhtml?keyword=jolduravitkwi&amp;searchType=tag&amp;link=prod">100 zł taniej!</a></h2>
+							<div class="text">Zlewozmywaki Duravit z kodem rabatowy.</div>
+							<a title="100 zł taniej!" href="/search.bhtml?keyword=jolduravitkwi&amp;searchType=tag&amp;link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Kup tablet Apple Ipad i zgarnij rabat na słuchawki Beats!" href="/search.bhtml?keyword=rtrapplekod&amp;searchType=tag&amp;link=prod">
+								<img alt="Kup tablet Apple Ipad i zgarnij rabat na s&#322;uchawki Beats!" src="http://f00.esfr.pl/foto/article-photos/9544037232/80x80_-_apple_ipad.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Kup tablet Apple Ipad i zgarnij rabat na słuchawki Beats!" href="/search.bhtml?keyword=rtrapplekod&amp;searchType=tag&amp;link=prod">Kup tablet Apple Ipad i zgarnij rabat na słuchawki Beats!</a></h2>
+							<div class="text">Rabat nawet 448 zł! Sprawdź!</div>
+							<a title="Kup tablet Apple Ipad i zgarnij rabat na słuchawki Beats!" href="/search.bhtml?keyword=rtrapplekod&amp;searchType=tag&amp;link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Kuchnia w jednym palcu!" href="/cms/blendery-philips-satysfakcja-gwarantowana.bhtml?link=prod">
+								<img alt="Kuchnia w jednym palcu!" src="http://f01.esfr.pl/foto/article-photos/9121033052/80x80.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Kuchnia w jednym palcu!" href="/cms/blendery-philips-satysfakcja-gwarantowana.bhtml?link=prod">Kuchnia w jednym palcu!</a></h2>
+							<div class="text">Wybierz sw&oacute;j blender i testuj przez 30 dni!<br /></div>
+							<a title="Kuchnia w jednym palcu!" href="/cms/blendery-philips-satysfakcja-gwarantowana.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Kup produkty marki Candy" href="/cms/candy-70-urodziny.bhtml?link=prod">
+								<img alt="Kup produkty marki Candy" src="http://f00.esfr.pl/foto/article-photos/9685169942/Candy70_EURORTVAGD_Baner_90x90_v2 - Kopia.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Kup produkty marki Candy" href="/cms/candy-70-urodziny.bhtml?link=prod">Kup produkty marki Candy</a></h2>
+							<div class="text">Zarejestruj się i wygraj<strong> Fiata 500</strong>!<br /></div>
+							<a title="Kup produkty marki Candy" href="/cms/candy-70-urodziny.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Ekspres do kawy dla Ciebie, gra dla dziecka!" href="/cms/krups-ekspres-gry.bhtml?link=prod">
+								<img alt="Ekspres do kawy dla Ciebie, gra dla dziecka!" src="http://f00.esfr.pl/foto/article-photos/9562646717/80x80__ps_dzien_dziecka.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Ekspres do kawy dla Ciebie, gra dla dziecka!" href="/cms/krups-ekspres-gry.bhtml?link=prod">Ekspres do kawy dla Ciebie, gra dla dziecka!</a></h2>
+							<div class="text">Zestaw 150 zł taniej!<br /></div>
+							<a title="Ekspres do kawy dla Ciebie, gra dla dziecka!" href="/cms/krups-ekspres-gry.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+			</table>
+		</div>
+		<div class="artBottom">
+			<div class="artl"><div class="artr">
+			</div></div>
+		</div>
+		</div>
+		<div class="box " id="artBox2">
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="artHeader">
+			<div class="artl"><div class="artr">
+				<h3 class="f14 sh1">Nowości</h3>
+				
+					<a href="javascript:void(0)" style="display:none;" class="artScroll roll1"><span class="rollin"></span></a>
+					<a href="javascript:void(0)" class="artScroll roll2"><span class="rollout"></span></a>
+				
+			</div></div>
+		</div>
+		<div class="artContent">
+			<table class="artTop" cellpadding="0" cellspacing="0">
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox first ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Wentylatory, cyrkulatory, klimatyzatory" href="/cms/wentylatory-uff-jak-goraco.bhtml?link=prod">
+								<img alt="Wentylatory, cyrkulatory, klimatyzatory" src="http://f00.esfr.pl/foto/article-photos/9679736427/80x80_wentylacja.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Wentylatory, cyrkulatory, klimatyzatory" href="/cms/wentylatory-uff-jak-goraco.bhtml?link=prod">Wentylatory, cyrkulatory, klimatyzatory</a></h2>
+							<div class="text">Sprawdź naszą ofertę!<br /></div>
+							<a title="Wentylatory, cyrkulatory, klimatyzatory" href="/cms/wentylatory-uff-jak-goraco.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox first bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Waga Raven" href="/cms/sklep-raven.bhtml?link=prodsg">
+								<img alt="Waga Raven" src="http://f00.esfr.pl/foto/article-photos/9587764762/80x80_Raven_waga.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Waga Raven" href="/cms/sklep-raven.bhtml?link=prodsg">Waga Raven</a></h2>
+							<div class="text">Odważ się spr&oacute;bować!<br /></div>
+							<a title="Waga Raven" href="/cms/sklep-raven.bhtml?link=prodsg" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Przygotuj się do wyjazdu!" href="/cms/przygotuj-sie-do-wyjazdu2.bhtml?link=prod">
+								<img alt="Przygotuj si&#281; do wyjazdu!" src="http://f00.esfr.pl/foto/article-photos/9748228167/80x80_majowka.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Przygotuj się do wyjazdu!" href="/cms/przygotuj-sie-do-wyjazdu2.bhtml?link=prod">Przygotuj się do wyjazdu!</a></h2>
+							<div class="text">#wakacje #wyjazd #lato #wreszcie<br /></div>
+							<a title="Przygotuj się do wyjazdu!" href="/cms/przygotuj-sie-do-wyjazdu2.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Poznaj markę Duravit" href="/artykuly/agd/artykul-poznaj-marke-duravit.bhtml?link=prodsg">
+								<img alt="Poznaj mark&#281; Duravit" src="http://f01.esfr.pl/foto/article-photos/8590568157/80x80_Duravit.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Poznaj markę Duravit" href="/artykuly/agd/artykul-poznaj-marke-duravit.bhtml?link=prodsg">Poznaj markę Duravit</a></h2>
+							<div class="text">Ceramika kuchenna na lata<br /></div>
+							<a title="Poznaj markę Duravit" href="/artykuly/agd/artykul-poznaj-marke-duravit.bhtml?link=prodsg" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Odkurzacz Thomas z filtrem wodnym" href="/odkurzacze/thomas-perfect-air-allergy-pure-filtry-filterset-101-787272-.bhtml?link=prod">
+								<img alt="Odkurzacz Thomas z filtrem wodnym" src="http://f00.esfr.pl/foto/article-photos/9741749392/80x80_ceneo_thomas.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Odkurzacz Thomas z filtrem wodnym" href="/odkurzacze/thomas-perfect-air-allergy-pure-filtry-filterset-101-787272-.bhtml?link=prod">Odkurzacz Thomas z filtrem wodnym</a></h2>
+							<div class="text">Z kompletem filtr&oacute;w w zestawie<br /></div>
+							<a title="Odkurzacz Thomas z filtrem wodnym" href="/odkurzacze/thomas-perfect-air-allergy-pure-filtry-filterset-101-787272-.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Multicookery Philips" href="/cms/philips-multicooker-2.bhtml?link=prod">
+								<img alt="Multicookery Philips" src="http://f00.esfr.pl/foto/article-photos/9295392462/80x80.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Multicookery Philips" href="/cms/philips-multicooker-2.bhtml?link=prod">Multicookery Philips</a></h2>
+							<div class="text">Satysfakcja gwarantowana albo zwrot pieniędzy</div>
+							<a title="Multicookery Philips" href="/cms/philips-multicooker-2.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Blender Raven" href="/cms/sklep-raven.bhtml?link=prodsg">
+								<img alt="Blender Raven" src="http://f00.esfr.pl/foto/article-photos/9679616902/80x80_Raven_blender.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Blender Raven" href="/cms/sklep-raven.bhtml?link=prodsg">Blender Raven</a></h2>
+							<div class="text">Pozytywnie zakręcony<br /></div>
+							<a title="Blender Raven" href="/cms/sklep-raven.bhtml?link=prodsg" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Opiekacz Raven" href="/cms/sklep-raven.bhtml?link=prodsg">
+								<img alt="Opiekacz Raven" src="http://f01.esfr.pl/foto/article-photos/9414714417/80x80_Raven_opiekacz.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Opiekacz Raven" href="/cms/sklep-raven.bhtml?link=prodsg">Opiekacz Raven</a></h2>
+							<div class="text">Z nim Ci się opiecze!<br /></div>
+							<a title="Opiekacz Raven" href="/cms/sklep-raven.bhtml?link=prodsg" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Włosy plecione czy kręcone?" href="/cms/babyliss-twist-curl.bhtml">
+								<img alt="W&#322;osy plecione czy kr&#281;cone?" src="http://f00.esfr.pl/foto/article-photos/9587801827/80x80_babyliss.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Włosy plecione czy kręcone?" href="/cms/babyliss-twist-curl.bhtml">Włosy plecione czy kręcone?</a></h2>
+							<div class="text">Sprawdź nowości do pielęgnacji włos&oacute;w marki Babyliss!<br /></div>
+							<a title="Włosy plecione czy kręcone?" href="/cms/babyliss-twist-curl.bhtml" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Bezpłatne warsztaty Foto" href="/cms/fuji-warsztaty-zapiszsie.bhtml?link=prod">
+								<img alt="Bezp&#322;atne warsztaty Foto" src="http://f00.esfr.pl/foto/article-photos/9747260752/Warsztaty_Bonecki_80x80.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Bezpłatne warsztaty Foto" href="/cms/fuji-warsztaty-zapiszsie.bhtml?link=prod">Bezpłatne warsztaty Foto</a></h2>
+							<div class="text">Zapisz się na <strong>bezpłatne </strong>warszaty FOTO&nbsp;z Jackiem Boneckim!<br /></div>
+							<a title="Bezpłatne warsztaty Foto" href="/cms/fuji-warsztaty-zapiszsie.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Tefal - Optigrill " href="/grille/tefal-gc702-optigrill.bhtml?link=prod">
+								<img alt="Tefal - Optigrill " src="http://f01.esfr.pl/foto/article-photos/9549788757/80x80_tefalOG.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Tefal - Optigrill " href="/grille/tefal-gc702-optigrill.bhtml?link=prod">Tefal - Optigrill </a></h2>
+							<div class="text">Perfekcyjne rezultaty grillowania za każdym razem!<br /></div>
+							<a title="Tefal - Optigrill " href="/grille/tefal-gc702-optigrill.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+			</table>
+		</div>
+		<div class="artBottom">
+			<div class="artl"><div class="artr">
+			</div></div>
+		</div>
+		</div>
+		<div class="box " id="artBox3">
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="artHeader">
+			<div class="artl"><div class="artr">
+				<h3 class="f14 sh1">Więcej od EURO</h3>
+				
+					<a href="javascript:void(0)" style="display:none;" class="artScroll roll1"><span class="rollin"></span></a>
+					<a href="javascript:void(0)" class="artScroll roll2"><span class="rollout"></span></a>
+				
+			</div></div>
+		</div>
+		<div class="artContent">
+			<table class="artTop" cellpadding="0" cellspacing="0">
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox first ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Zarezerwuj przez internet Odbierz za godzinę" href="/cms/odbierz-za-godzine.bhtml">
+								<img alt="Zarezerwuj przez internet Odbierz za godzin&#281;" src="http://f01.esfr.pl/foto/article-photos/3197470566/80_odbierz_logo.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Zarezerwuj przez internet Odbierz za godzinę" href="/cms/odbierz-za-godzine.bhtml">Zarezerwuj przez internet Odbierz za godzinę</a></h2>
+							<div class="text">Rewolucyjna, <strong><span style="color: rgb(237, 28, 36);">darmowa</span> </strong>usługa Euro.com.pl.<br /></div>
+							<a title="Zarezerwuj przez internet Odbierz za godzinę" href="/cms/odbierz-za-godzine.bhtml" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox first bL">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="&#034;Przedłuż Gwarancję®&#034; dla wygody i spokoju!" href="/cms/przedluz-gwarancje.bhtml?linksg=wiecej">
+								<img alt="&quot;Przed&#322;u&#380; Gwarancj&#281;&reg;&quot; dla wygody i spokoju!" src="http://f00.esfr.pl/foto/article-photos/147526190/ekipa.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="&#034;Przedłuż Gwarancję®&#034; dla wygody i spokoju!" href="/cms/przedluz-gwarancje.bhtml?linksg=wiecej">"Przedłuż Gwarancję®" dla wygody i spokoju!</a></h2>
+							<div class="text"><p>Od następnego dnia po zakupie, bezpłatne naprawy nawet do 5 lat!</p></div>
+							<a title="&#034;Przedłuż Gwarancję®&#034; dla wygody i spokoju!" href="/cms/przedluz-gwarancje.bhtml?linksg=wiecej" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Wypełnij ankietę!" href="/cms/ankieta.bhtml?link=sg">
+								<img alt="Wype&#322;nij ankiet&#281;!" src="http://f01.esfr.pl/foto/article-photos/6480284187/ankieta---ikona.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Wypełnij ankietę!" href="/cms/ankieta.bhtml?link=sg">Wypełnij ankietę!</a></h2>
+							<div class="text">I Ty masz wpływ na jakość naszej pracy!</div>
+							<a title="Wypełnij ankietę!" href="/cms/ankieta.bhtml?link=sg" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="TAX FREE for tourists" href="/cms/tax-free.bhtml?link=sg">
+								<img alt="TAX FREE for tourists" src="http://f00.esfr.pl/foto/article-photos/6750607477/80_tax.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="TAX FREE for tourists" href="/cms/tax-free.bhtml?link=sg">TAX FREE for tourists</a></h2>
+							<div class="text"><strong>Refund 100% tax </strong>without handling fee.</div>
+							<a title="TAX FREE for tourists" href="/cms/tax-free.bhtml?link=sg" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Masz pytania? Zadzwoń! 855 855 855" href="/cms/kontakt.bhtml?linksg=wiecej">
+								<img alt="Masz pytania? Zadzwo&#324;! 855 855 855" src="http://f01.esfr.pl/foto/article-photos/8744673707/80x80_pani.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Masz pytania? Zadzwoń! 855 855 855" href="/cms/kontakt.bhtml?linksg=wiecej">Masz pytania? Zadzwoń! 855 855 855</a></h2>
+							<div class="text">Pracownicy Centrum Obsługi Klienta czekają na Twoje pytania<br /></div>
+							<a title="Masz pytania? Zadzwoń! 855 855 855" href="/cms/kontakt.bhtml?linksg=wiecej" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Podaruj prezent w najlepszej formie" href="/cms/biznesowy-bonton.bhtml?link=prod">
+								<img alt="Podaruj prezent w najlepszej formie" src="http://f00.esfr.pl/foto/article-photos/8090515987/80x8_bonton.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Podaruj prezent w najlepszej formie" href="/cms/biznesowy-bonton.bhtml?link=prod">Podaruj prezent w najlepszej formie</a></h2>
+							<div class="text">Bony prezentowe RTV Euro AGD!&nbsp;Idealne na każdą okazję.<br /></div>
+							<a title="Podaruj prezent w najlepszej formie" href="/cms/biznesowy-bonton.bhtml?link=prod" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Rezerwacja sprzętu w jednym z 222 sklepów EURO" href="/cms/dostawa_odbior-w-sklepie.bhtml?linksg=wiecej">
+								<img alt="Rezerwacja sprz&#281;tu w jednym z 222 sklep&oacute;w EURO" src="http://f01.esfr.pl/foto/article-photos/8744921437/g2.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Rezerwacja sprzętu w jednym z 222 sklepów EURO" href="/cms/dostawa_odbior-w-sklepie.bhtml?linksg=wiecej">Rezerwacja sprzętu w jednym z 222 sklepów EURO</a></h2>
+							<div class="text"><p>Zarezerwuj towar przez internet i kup w pobliżu swojego domu.</p></div>
+							<a title="Rezerwacja sprzętu w jednym z 222 sklepów EURO" href="/cms/dostawa_odbior-w-sklepie.bhtml?linksg=wiecej" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+					<tr class="artRow">
+						
+						
+						
+							
+								
+
+
+
+
+
+
+
+
+
+
+
+
+		<td class="itemBox  ">
+		<div class="td">
+			
+			
+				
+				
+					<table cellpadding="0" cellspacing="0"><tr>
+						<td class="img">
+							<a title="Program Sygma Bonus" href="/cms/karta-kredytowa-euro-mastercard.bhtml">
+								<img alt="Program Sygma Bonus" src="http://f00.esfr.pl/foto/article-photos/6786677097/80-sygma.png" />
+							</a>
+							
+						</td>
+						<td class="desc">
+							<h2 class="title"><a title="Program Sygma Bonus" href="/cms/karta-kredytowa-euro-mastercard.bhtml">Program Sygma Bonus</a></h2>
+							<div class="text"><strong>w RTV EURO AGD.</strong><br /></div>
+							<a title="Program Sygma Bonus" href="/cms/karta-kredytowa-euro-mastercard.bhtml" class="link">Zobacz</a>
+						</td>
+					</tr></table>
+				
+				
+			
+		</div>
+		</td>
+							
+							
+						
+						
+						
+						
+							
+							
+								<td class="itemBox bL"><div class="td"></div></td>
+							
+						
+					</tr>
+				
+			</table>
+		</div>
+		<div class="artBottom">
+			<div class="artl"><div class="artr">
+			</div></div>
+		</div>
+		</div>
+	</div>
+
+
+	
+
+
+
+
+			<div class="clear"></div>
+			
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+				<div class="banners">
+						
+						
+							
+							
+								<div class="bannerfooter">
+										
+										<div class="" >
+											
+												
+													<script type="text/javascript">
+jQuery(".itemMore").css("display","none");
+</script>
+												
+												
+											
+										</div>
+										
+									
+								</div>
+							
+						
+				</div>
+				<div class="clear"></div>
+			
+		
+		
+	
+
+
+	
+
+
+
+		</div>
+		
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+<div id="hiddenFancyLink"></div>
+<div id="hiddenFancyBody"></div>
+
+
+	<div class="content">
+<div id="footer-boxes">
+<div class="footer-box first">
+<div class="footer-box-top">Newsletter</div>
+<div class="footer-box-bottom">
+  <span><strong>Zapisz się</strong>, aby otrzymywać:</span><br />
+	<span class="arrow-grey">&nbsp;</span><a href="/cms/aktualne-kupony-rabatowe.bhtml?link=stopka">kupony rabatowe</a><br />
+	<span class="arrow-grey">&nbsp;</span>informacje o promocjach<br />
+	<span class="arrow-grey">&nbsp;</span>informacje o nowościach<br />
+	<span class="arrow-grey">&nbsp;</span>nową gazetkę promocyjną<br />
+
+    <div class="clear">&nbsp;</div>
+    <div class="text-wrap input-bg-158 mT10 pB5"><input type="text" id="newsleterEmail" class="text" /></div>
+    <div class="clear">&nbsp;</div>
+    <div class="sign-in-wrap"><input type="radio" value="dopisz" checked="checked" id="newlstter-dopisz" name="zapisz" class="noSafari hide"  /></div>
+    <a href="javascript:void(0)" onclick="newsletterSend();" class="wyslij2"></a>
+			    <a id="newsleterEmailLink" class="hide fancyMail" href="javascript:void(0);"></a>
+	<ul class="pT10"><li><span class="arrow-grey">&nbsp;</span><a href="/cms/biuletyny.bhtml?link=stopka" class="">Dowiedz się więcej</a></li></ul>
+
+</div>
+</div>
+<div class="footer-box">
+<div class="footer-box-top">Narzędzia</div>
+<div class="footer-box-bottom"><span class="bold">Dodaj do ulubionych</span>
+<div class="clear">&nbsp;</div>
+<a href="javascript:void(0);" onclick="pageTracker._trackEvent('Inne', 'click Stopka - Dodaj do ulubionych');addBookmark();" class="dodaj"></a>
+<div class="clear">&nbsp;</div>
+<div class="h10"></div>
+    <span class="bold">Poleć nas znajomemu</span>
+    <div class="clear">&nbsp;</div>
+    <div class="text-wrap input-bg-158 mB5 mT5"><input type="text" id="notifyFriendEmail" class="text" /></div>
+    <a id="notifyFriendF" class="notifyFriend wyslij2" onclick="pageTracker._trackEvent('Inne', 'click Stopka - Poleć znajomemu');" href="javascript:void(0)"></a>
+	<div class="clear">&nbsp;</div>
+<div class="h10"></div>
+   
+    <div class="clear">&nbsp;</div>
+
+</div>
+</div>
+<div class="footer-box">
+<div class="footer-box-top">Kontakt</div>
+<div class="footer-box-bottom">
+
+<div class="bold">Infolinia:</div>
+<div class="clear">&nbsp;</div>
+<div>
+
+<span class="lcIcon tel1_16 pL20 lch_16"><span class="f11">855 855 855</span></span>
+<span class="clear"></span>
+<a  title="Połączenie wideo z tłumaczem języka migowego dla klientów niesłyszących" class="migamorg none" href="javascript:void(0)" data-placeholder="stopka" onclick="al_windowOpen('https://chat.altar.com.pl/axjACC/chat/pubservlet/clientChat','712','','systype=Android','',0,0,0,0,document.location.protocol+'//'+document.location.host);">
+	<span class="migamIcon migam_16 pL20"><span class="f11">język migowy</span></span>
+	<span class="clear"></span>
+</a>
+
+</div>
+
+
+<div class="clear">&nbsp;</div>
+<div class="bold mT10">Pracujemy:</div>
+<div class="clear">&nbsp;</div>
+<div>
+pon.-sob. w godz. 8:00 - 21:00<br />
+ndz. w godz. 9:00 - 19:00</div>
+
+<div class="bold mT10">Pracownik sklepu <br /></div>
+<div class="clear">&nbsp;</div>
+<div><a href="mailto:sklep.internetowy@euro.com.pl">sklep.internetowy@euro.com.pl</a></div>
+<div class="clear">&nbsp;</div>
+</div>
+</div>
+<div class="footer-box">
+<div class="footer-box-top">Informacje</div>
+<div class="clear">&nbsp;</div>
+<div class="footer-box-bottom">
+<ul>
+    <li><a href="/cms/o-firmie.bhtml?link=stopka" rel="nofollow"><span class="arrow-grey">&nbsp;</span>O firmie</a> | <a href="/cms/dolacz.bhtml?link=stopka rel="nofollow">Dołącz do nas</a></li>
+    <li><a href="/cms/centrum-informacji.bhtml?link=stopka" rel="nofollow"><span class="arrow-grey">&nbsp;</span>Pomoc</a> | <a href="/cms/bezpieczenstwo.bhtml?link=stopka" rel="nofollow">Bezpieczeństwo</a></li>
+    <li></li>
+    <li><a href="/cms/regulamin.bhtml?link=stopka" rel="nofollow"><span class="arrow-grey">&nbsp;</span>Regulamin</a> | <a href="/cms/polityka-prywatnosci.bhtml?link=stopka" rel="nofollow">Polityka prywatności</a></li>
+	<li><a href="/cms/centrum-informacji.bhtml?sp=e3&link=stopka" rel="nofollow"><span class="arrow-grey">&nbsp;</span>Dostawa</a> | <a href="/cms/pomoc-odbior-zuzytego-sprzetu.bhtml?sp=e39&link=stopka" rel="nofollow">Zużyty sprzęt</a></li>
+    <li><a href="/cms/centrum-informacji.bhtml?sp=e9&link=stopka" rel="nofollow"><span class="arrow-grey">&</span>Sprzedaż dla firm i instytucji</a></li>
+
+<!--
+    <li><a href="/cms/jak-kupowac.bhtml?link=stopka"><span class="arrow-grey">&nbsp;</span>Jak kupować</a></li>
+
+-->
+    
+    <li><a href="/cms/raty.bhtml?link=stopka" rel="nofollow"><span class="arrow-grey">&nbsp;</span>Raty</a></li>
+    <li><a href="/cms/centrum-informacji.bhtml?sp=e8&link=stopka" rel="nofollow"><span class="arrow-grey">&nbsp;</span>Reklamacje</a></li>
+     <li><a href="/cms/program-partnerski.bhtml?link=stopka" rel="nofollow"><span class="arrow-grey">&nbsp;</span>Program partnerski</a></li>
+   
+</ul>
+<div class="clear">&nbsp;</div>
+</div>
+</div>
+<div class="footer-box last">
+<div class="footer-box-top">Znajdź sklep</div>
+<div class="footer-box-bottom">
+
+	<div style="float:right;" class="tcenter"><a href="/sklepy.bhtml?link=stopka"><img width="50" align="right" height="50" alt="mapa Polski" src="//f00.esfr.pl/images/www/footer-map-poland.jpg"></a></div>
+	<div style="margin-top:5px;" class="bold">RTV EURO AGD to już <span class="ilosc">222</span> sklepy w 134 miastach</div>
+	<div class="mT5">Warszawa, Gdańsk, Szczecin, Poznań, Łódź, Kraków, Wrocław, Gdynia, Białystok, Radom, Opole, Bydgoszcz, Katowice, Grudziądz, Gorzów Wielkopolski, Gliwice...</div>
+	<div class="mT5"><span class="arrow-grey">&nbsp;</span><a href="/sklepy.bhtml?link=stopka" class="bold">Znajdź najbliższy sklep EURO</a></div>
+	<div class="clear">&nbsp;</div>
+
+</div>
+</div>
+</div>
+<div class="clear">&nbsp;</div>
+</div> 
+
+
+	<div class="content">
+<div class="clear">&nbsp;</div>
+<style type="text/css">
+.content #footer-logo-brands {
+    background: url("//f00.esfr.pl/upload_module/graphics/footer-logo-brands2.png") no-repeat;
+    height: 80px; background-position: 40px 21px;
+}
+</style>
+<div id="footer-logo-brands">&nbsp;
+<img src="//f00.esfr.pl/si_upload/unity/graphics/visa_master_logo.png" style="display: block; float: right; margin-top: 20px ! important; margin-right: 40px;">
+</div>
+<div class="clear">&nbsp;</div>
+</div>
+<div class="content-corners-bottom">&nbsp;</div>
+<div class="tcenter">
+<p>RTV EURO AGD &copy; 2009   Wszystkie prawa zastrzeżone, powielanie informacji zawartych na tej stronie zabronione.</p>
+<p>Właściciel serwisu: Euro-net sp. z o.o., ul. Muszkieterów 15, 02-273 Warszawa</p>
+</div>
+<div id="notifyCookie" class="notifyCookie none">
+	<div class="wrapper">
+		<div class="cnt">
+			
+			
+			<p style="font-size:  10px;">Wykorzystujemy ciasteczka (ang. cookies) oraz podobne technologie w celu świadczenia usług, dostosowania serwisu do indywidualnych preferencji użytkowników oraz w celach statystycznych i reklamowych. Możesz zawsze wyłączyć ten mechanizm w ustawieniach przeglądarki. Korzystanie z naszego serwisu bez zmiany ustawień przeglądarki oznacza, że cookies będą zapisane w pamięci urządzenia. Więcej w <a href="/cms/polityka-prywatnosci.bhtml?link=belkaCookie" class="polityka">Polityce prywatności</a>.
+</p><ul>
+				<li><a href="#" id="notifyCookieAck" class="notifyCookieAck">OK, zamknij</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- <script type="text/javascript" src="//f00.esfr.pl/upload_module/inne/flixmedia-guziki.js"></script> -->
+<script type="text/javascript" src="/upload_module/files/euro_commons.js?ver=1"></script>
+<!-- fix na kk -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	if(document.location.pathname == "/customer-order-edit.bhtml" && jQuery.trim(jQuery('.center-content.customer').text()).indexOf('RATY PRZEZ INTERNET') != -1){
+		jQuery('.w115:last, .w500:last').remove();
+	}
+cookieEvtLog.save({name:"akcept_reg"});
+	jQ("#cart .yellow-register").on('click',function(){
+		cookieEvtLog.set({name:"akcept_reg",event:"akcept_reg",str:jQ("#email").val()});
+	});
+
+});
+</script>
+<!-- koniec fix na kk -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1062439680;
+var google_conversion_label = "x3R2CNikmwMQgJbO-gM";
+switch(pageType){
+	case "product":
+		var google_custom_params = {
+			prodid: plu(),
+			pagetype: 'product',
+			user: (visit_id()-customer_id()>1)?'ret':'new'
+		};
+		break;
+	case "cart":
+		var el = jQuery('tr.prod');
+		var cPlus = [];
+		var cTmp;
+		for(var i=0;i<el.length;i++){
+			cTmp = jQuery(el[i]).find('.category').text().replace(/[^0-9]+/g,'');
+			cTmp = cTmp.substr(cTmp.length-6);
+			if(cTmp.length != 0){
+				cPlus[i] = cTmp;
+			}else{
+				break;
+			}
+			
+		}		
+		var google_custom_params = {
+			prodid: cPlus,
+			pagetype: 'cart',
+			user: (visit_id()-customer_id()>1)?'ret':'new'
+		};
+		break;
+	default:
+		if(typeof google_custom_params == 'undefined'){
+			var google_custom_params = {
+				prodid: '',
+				pagetype: '',
+				user: (visit_id()-customer_id()>1)?'ret':'new'
+			};
+		}
+}
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1062439680/?value=0&amp;label=x3R2CNikmwMQgJbO-gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- RSZ Hotfix potykacza niedokończonych zamówień Alior -->
+<script type="text/javascript">
+	function instalmentOrdersRequiring(){}
+	showInstalmentOrdersRequiringActionsForNextAction=false;
+</script>
+
+<!-- RSZ Migam -->
+<script language="JavaScript" src="https://chat.altar.com.pl/axjACC/chat/pubservlet/clientChat?gjs=1&"></script>
+<script type="text/javascript">
+if (typeof(al_windowOpen) != 'undefined') {
+  jQuery('.migamorg').removeClass('none')
+}
+</script>
+<!-- MZA EXIT INTENT -->
+<style>
+@import"http://fonts.googleapis.com/css?family=Lato:400,900,700&subset=latin-ext";#exitNewsletterent{width:637px;height:435px;background:#fff;box-shadow:0 0 20px #000;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px}#exitNewsletterent #exit_Close{background:url(//f01.esfr.pl/si_upload/gfx/2015/03_18_exit_intent/exit.png) no-repeat;width:32px;display:block;height:32px;top:-15px;position:absolute;right:-11px;text-indent:-9999px}#exitNewsletterent .input-wrapper #pop_form_email{background:none;width:304px;padding:8px 10px;color:#ccc}#exitNewsletterent .input-wrapper #pop_form_email:focus,#exitNewsletterent .input-wrapper #pop_form_email.filled{color:#666}#exitNewsletterent input#nllSubmit{background:url(//f01.esfr.pl/si_upload/gfx/2015/03_18_exit_intent/button.png) no-repeat;display:block;width:132px;height:30px;text-indent:-99999999px;cursor:pointer;margin-top:11px;float:right;margin-right:27px}#exitNewsletterent input#nllSubmit:hover{opacity:.6}#exitNewsletterent .wr{font-size:12px;font-weight:400;padding:0 0 5px}#exitNewsletterent .poli{display:block;float:left;font-size:12px;padding-top:23px}#exitNewsletterent .input-wrapper{width:324px;background:url(//f01.esfr.pl/si_upload/gfx/2015/03_18_exit_intent/input.png) no-repeat;height:31px}#exitNewsletterent *{font-family:"Lato",sans-serif}#exitNewsletterent .exit_cont{width:350px}#exitNewsletterent .exit_image{position:absolute;left:0;bottom:0}#exitNewsletterent .exit_cont .exit_head{font-size:29px;color:#333;text-align:center;padding:35px 0 10px;font-weight:900;position:absolute;width:100%;left:0}#exitNewsletterent .nllWrapper{padding-top:101px}#exitNewsletterent .exit_cont .bloczki .bx{width:155px;height:72px;float:left;background:#f2f2f2;border:1px solid #e0e0e0;margin-right:11px;margin-top:12px}#exitNewsletterent .exit_cont .bloczki .gd{font-weight:700;font-size:13px;padding-top:5px;padding-left:11px}#exitNewsletterent .exit_cont .bloczki .td{padding-left:11px;padding-right:7px;padding-top:2px;font-size:10px}#exitNewsletterent .exit_cont .bloczki{padding-top:6px}#exitNewsletterent .exit_cont .already{padding-top:6px;padding-bottom:5px;color:#333;text-align:right;padding-right:27px;cursor:pointer;display:block}#fancybox-content .w400{text-align:center;font-size:19px;padding:10px 0;font-weight:700}
+</style>
+<script type="text/javascript">
+function oldPopup(){
+	if(www.pageType == "productsList"){
+		abNewsletterStart();
+	}
+}
+function getProperExitIntContent(ver){
+	
+	if(typeof ver !== "undefined" && ver == '1' && !document.location.pathname.indexOf('okazja-dnia.bhtml')>=-1){
+		//ver=1
+		var oldCookie = jQuery.cookie('unll');
+		if (oldCookie == null){
+		var splitedCookie = oldCookie;
+		}else{
+		var splitedCookie = oldCookie.split('|')[0]/1;
+		}
+		if(www.pageType == "productsList" && oldCookie !== 'disabled' && oldCookie !== '0'){
+		
+			if(www.pageType == "productsList" && splitedCookie !==1 ){
+				exitIntentStart();
+			}
+			oldPopup();
+		}else if(www.pageType !== "productsList"){
+		exitIntentStart();
+		}
+	}else if(ver == '2' && !document.location.pathname.indexOf('okazja-dnia.bhtml')>=-1){
+		//ver=2
+		exitIntentStart();
+		
+	}else if(ver == '0'){
+		//ver=0
+		oldPopup();
+		
+	}
+	
+}
+	
+function ab_ExitInt(){
+	abExitInt = new _AB_({
+		name: 'exitIntent',
+		wariant:{
+			'V1':{
+				'weight':33,
+				Event: function(e){
+					getProperExitIntContent('0');
+					
+				}
+			},
+			'V2':{
+				'weight':33,
+				Event: function(e){
+					getProperExitIntContent('1');
+					
+				}
+			},
+			'V3':{
+				'weight':33,
+				Event: function(e){
+					getProperExitIntContent('2');
+				}
+			}
+		}
+	});
+}
+if(typeof _AB_ != "undefined" && typeof abExitInt == "undefined"){
+	ab_ExitInt();
+}
+
+
+
+
+function exitIntentStart(){
+jQ(document).on('mouseleave', function(e) {
+
+    if ((e.clientY < 0) && jQuery.cookie('exitNewsletter') !== "disabled") {
+
+        exitIntent();
+
+    }
+});
+}
+
+function exitIntent() {
+    var x = '<div id="exitNewsletterent"><a href="#" id="exit_Close" class="exit_close">x</a><div class="exit_image"><img src="//f01.esfr.pl/si_upload/gfx/2015/03_18_exit_intent/img3.jpg"></div><div class="fright exit_cont"><div class="exit_head">Zapisz się na najlepsze promocje!</div><div class="nllWrapper"><div class="wr">Twój adres e-mail</div><form id="mzaSub" onsubmit="jQuery.fancybox.close();" action=""><div class="input-wrapper"><input type="text" name="email" id="pop_form_email" value="wpisz swój adres email"></div><a class="poli" href="/cms/polityka-prywatnosci.bhtml?link=exitIntent" target="_blank">Polityka prywatności</a><input id="nllSubmit" type="submit" name="wyślij" value="wyślij"><div class="clear"></div></form><div class="clear"></div></div><div class="bloczki"><div class="bx">  <div class="gd">Kupony rabatowe</div><div class="td">Otrzymuj wyjątkowe kupony rabatowe wprost na swoją skrzynkę e-mail!</div></div><div class="bx"><div class="gd">Promocje</div><div class="td">Bądź jedną z pierwszych osób, która dowie się o najnowszych promocjach!</div></div><div class="bx"><div class="gd">Gazetka promocyjna</div><div class="td">Zobacz jakie promocje czekają w sklepach Euro w Twoim mieście!</div></div><div class="bx">  <div class="gd">Nowości i nowinki</div><div class="td">Dowiesz się o najciekawszych produktach z naszej oferty!</div>  </div><div class="clear"></div><div class="already">Jestem już zapisany</div></div></div><div class="clear"></div></div>';
+    var pope;
+    pope = new popup2({
+        name: 'exitNewsletter',
+        disable_days: 10000,
+        html: x,
+ga: '/akcje/zapisano-na-biuletyn/exit-intent',
+        height: 430,
+		f04: 'Exit Intent',
+		f05: 'Exit Pop-up',
+    });
+    pope.http().newsletter(false).basket(false).show().overlay(true);
+    pageTracker._trackEvent('Exit Newsletter', 'Wyświetlenie', 'Wyświetlenie');
+    var el = pope.getElement();
+    //wyłączenie po pokazaniu
+    //pope.disbaleAfterShow();
+    jQuery.cookie('exitNewsletter', 'disabled', {
+        path: '/'
+    });
+    //jQuery.cookie('exitNewsletter', '0', {path:'/'});
+    disableScrollEvent(true);
+	var params = {
+        eventId: 'exitNewsletter',
+        F01: customer_id(),
+        F02: visit_id(),
+        F03: getFrontUserId(),
+        F04: 'Wyswietlenie',
+		F05: 'Exit Pop-up'
+    };
+
+    jQuery.post("/shopEvent.ltr", params);
+
+    jQuery('.exit_close', el).click(function(e) {
+        pope.hide();
+		jQuery.cookie('exitNewsletter', 'disabled', {
+            path: '/'
+        });
+        disableScrollEvent(false);
+        pageTracker._trackEvent('Exit Newsletter', 'Zamknięcie', 'Zamknięcie - Krzyżyk');
+	var params = {
+        eventId: 'exitNewsletter',
+        F01: customer_id(),
+        F02: visit_id(),
+        F03: getFrontUserId(),
+        F04: 'Zamkniecie - Krzyzyk',
+		F05: 'Exit Pop-up'
+    };
+        jQuery.post("/shopEvent.ltr", params);
+    });
+    jQuery('.already', el).click(function(e) {
+        pope.disable();
+        disableScrollEvent(false);
+        dataLayer.push({
+            'event': 'visitor interaction',
+            'eventCategory': 'testAB',
+            'eventAction': 'exitNewsletter',
+            'eventLabel': 'alreadySignedUp',
+            'eventValue': '',
+            'eventNonInteractive': ''
+        });
+        pageTracker._trackEvent('Exit Newsletter', 'Zamknięcie', 'Jestem już zapisany');
+	var params = {
+        eventId: 'exitNewsletter',
+        F01: customer_id(),
+        F02: visit_id(),
+        F03: getFrontUserId(),
+        F04: 'Jestem juz zapisany',
+		F05: 'Exit Pop-up'
+    };
+        jQuery.post("/shopEvent.ltr", params);
+    });
+
+    var dis1 = document.getElementById("pop_form_email");
+    dis1.onchange = function() {
+        if (this.value != "" || this.value.length > 0) {
+            dis1.className = dis1.className + " filled";
+
+        } else {
+            dis1.className = dis1.className - " filled";
+        }
+    }
+
+    jQuery('.poli', el).click(function(e) {
+        pageTracker._trackEvent('Exit Newsletter', 'Polityka Prywatności', 'Polityka Prywatności');
+	var params = {
+        eventId: 'exitNewsletter',
+        F01: customer_id(),
+        F02: visit_id(),
+        F03: getFrontUserId(),
+        F04: 'Polityka Prywatnosci',
+		F05: 'Exit Pop-up'
+    };
+        jQuery.post("/shopEvent.ltr", params);
+    });
+}
+
+function disableScrollEvent(action) {
+    if (action) {
+        var scrollPosition = [
+            self.pageXOffset || document.documentElement.scrollLeft || document.body.scrollLeft,
+            self.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+        ];
+        var html = jQuery('html');
+        html.data('scroll-position', scrollPosition);
+        html.data('previous-overflow', html.css('overflow'));
+        html.css('overflow', 'hidden');
+        window.scrollTo(scrollPosition[0], scrollPosition[1]);
+        return true;
+    } else {
+        var html = jQuery('html');
+        var scrollPosition = html.data('scroll-position');
+        html.css('overflow', html.data('previous-overflow'));
+        window.scrollTo(scrollPosition[0], scrollPosition[1]);
+        return false;
+    }
+}
+</script>
+
+
+
+	
+
+
+
+	</div> 
+	<script type="text/javascript">
+		updateRefPage();
+	</script>
+	
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+
+	
+<script type="text/javascript">
+	var pageTracker=googleAnalytics();
+	dataLayer.push({'pageCategory':www.pageType});
+</script>
+	
+
+
+<div id="new-newsletter-cnt">
+	<div id="new-newsletter">
+		<ul>
+			<li><a href="#" class="nsltrL"><span class="nicon"></span><span>Newsletter</span><span class="b">zapisz się</span><span class="narr"></span></a>
+				<ul>
+					<li class="black">Zapisz się aby otrzymywać:</li>
+					<li><span class="b">kupony rabatowe</span></li>
+					<li><span class="b">informacje o promocjach</span></li>
+					<li><span class="b">informacje o nowościach</span></li>
+					<li><span class="b">nową gazetkę promocyjną</span></li>
+					<li class="nsltr"><div class="text-wrap input-bg-158"><input type="text" class="text example" id="newsletterEmailTop"></div><a href="#" class="nsltrSend"></a></li>
+					<li class="last black"><a href="/cms/polityka-prywatnosci.bhtml">polityka prywatności</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div class="clear"></div>
+</div>
+<!-- poczatek: belka nocna-promocja -->
+<link rel="stylesheet" type="text/css" href="//f00.esfr.pl/si_upload/upload_2013/20130511_nocna_promocja/nocna_belka_20150418.css"/>
+<script type="text/javascript" src="//f00.esfr.pl/si_upload/upload_2013/20130511_nocna_promocja/nocna_belka_20150418.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	nocna_belka_start();
+	//obsługa kliknięcia w 'x' - zamykanie belki.
+	jQuery('#nocna_promocja .closePromoX').live('click', function(event){
+		jQuery('#nocna_promocja').hide();
+		jQuery.cookie('nb',0);
+		event.preventDefault();		
+	});	
+});
+</script>
+<!-- koniec: belka nocna-promocja -->
+</body>
+</html>
