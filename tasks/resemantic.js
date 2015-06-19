@@ -43,6 +43,7 @@ module.exports = function(grunt) {
     });
 
     grunt.file.write(dest, JSON.stringify(result, null, options.indent));
+    grunt.log.success('Created ' + dest);
     
   });
 
