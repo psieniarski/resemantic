@@ -9,7 +9,7 @@ var assert = require('chai').assert;
 var sinon  = require('sinon');
 
 // src code
-var extractor = require('../src/lib/extractor.js');
+var extractor = require('../lib/extractor.js');
 
 // helpers
 var testString  = '<div class="foo bar"></div><div id="unique"></div>';
