@@ -28,24 +28,26 @@ describe('eachMatch', function() {
 describe('extractSelectors', function() {
 	var result; 
 
-	beforeEach(function() {
-		result = extractor.extractSelectors(testString, testPattern);
-	});
+	describe('when str argument contain class and ids', function() {
+		beforeEach(function() {
+			result = extractor.extractSelectors(testString, testPattern);
+		});
 
-	afterEach(function() {
-		result = undefined;
-	})
-	
-	it('should return object', function() {
-		assert.isObject(result); 
-	});
+		afterEach(function() {
+			result = undefined;
+		})
+		
+		it('should return object', function() {
+			assert.isObject(result); 
+		});
 
-	it('should return object contain class.foo property', function() {
-		assert.deepProperty(result, 'class.foo'); 
-	});
+		it('should return object contain class.foo property', function() {
+			assert.deepProperty(result, 'class.foo'); 
+		});
 
-	it('should return object contain id.unique property', function() {
-		assert.deepProperty(result, 'id.unique'); 
+		it('should return object contain id.unique property', function() {
+			assert.deepProperty(result, 'id.unique'); 
+		});	
 	});
 });
 
