@@ -41,13 +41,9 @@ grunt.initConfig({
 Type: `RegExp`
 Default value: `/(class|id)[ \t]*=[ \t]*"([^"]+)"/gm,`
 
-A string value that is used to do something with whatever.
-
 #### options.indent
 Type: `Number`
 Default value: `4`
-
-A string value that is used to do something else with whatever else.
 
 
 ## Release History
